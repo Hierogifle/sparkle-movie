@@ -1,3 +1,9 @@
 # Datasets MovieLens (télécharger depuis grouplens.org)
 data/
 
+
+.env
+*.env
+__pycache__/
+*.pyc
+.vscode/

@@ -1,14 +1,18 @@
-# Python / venv
+# Virtual env
 .venv/
 venv/
+
+# Python
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Data (ne versionne pas les datasets bruts)
-data/
-*.parquet
+# Data (structure versionnée, données ignorées)
+data/**
+!data/**/
+!data/**/.gitkeep
 *.csv
+*.parquet
 
 # OS / IDE
 .DS_Store

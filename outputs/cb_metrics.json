@@ -1,0 +1,16 @@
+{
+  "model": "ContentBased_TFIDF",
+  "params": {
+    "max_features": 20000,
+    "ngram_range": "(1,1)",
+    "min_df": 2,
+    "max_df": 0.9
+  },
+  "metrics": {
+    "catalog_coverage": 0.0001,
+    "inference_time_ms": 105.17,
+    "ils_toy_story": 0.2381,
+    "ils_dark_knight": 0.207,
+    "ils_titanic": 0.0797
+  }
+}

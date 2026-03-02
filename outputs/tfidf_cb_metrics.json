@@ -1,0 +1,14 @@
+{
+  "model": "content_based_tfidf",
+  "params": {
+    "K": 10,
+    "n_sample": 500
+  },
+  "metrics": {
+    "catalog_coverage": 0.05,
+    "intra_list_diversity_mean": 0.8176,
+    "intra_list_diversity_std": 0.1196,
+    "personalization": 0.9996,
+    "avg_similarity": 0.2269
+  }
+}

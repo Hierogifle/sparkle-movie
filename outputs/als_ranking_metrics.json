@@ -1,0 +1,12 @@
+{
+  "model": "ALS_tuned",
+  "k": 10,
+  "rating_threshold": 3.5,
+  "metrics": {
+    "precision@10": 0.0024,
+    "recall@10": 0.0046,
+    "ndcg@10": 0.0032,
+    "map": 0.0011,
+    "catalog_coverage": 0.1548
+  }
+}

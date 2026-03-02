@@ -1,0 +1,18 @@
+[
+  {
+    "model": "ALS_baseline",
+    "timestamp": "2026-03-02T13:56:54.823183",
+    "params": {
+      "rank": 10,
+      "maxIter": 10,
+      "regParam": 0.1
+    },
+    "metrics": {
+      "rmse_val": 0.8049,
+      "mae_val": 0.6218,
+      "rmse_test": 0.8046,
+      "mae_test": 0.6215
+    },
+    "train_time_s": 21.6
+  }
+]

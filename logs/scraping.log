@@ -1,0 +1,1336 @@
+14:39:17 [INFO] Films à scrapper : 87,425
+14:39:17 [INFO] Total      : 87,425
+14:39:17 [INFO] En cache   : 0
+14:39:17 [INFO] À scrapper : 87,425
+14:39:31 [INFO] Cache sauvegardé (500 traités)
+14:39:42 [INFO] Progression : 1,000/87,425 (1.1%) — OK: 1,001 — Erreurs: 0
+14:39:43 [INFO] Cache sauvegardé (1,000 traités)
+14:39:55 [INFO] Cache sauvegardé (1,500 traités)
+14:40:07 [INFO] Progression : 2,000/87,425 (2.3%) — OK: 2,002 — Erreurs: 0
+14:40:07 [INFO] Cache sauvegardé (2,000 traités)
+14:40:08 [WARNING] Rate limit (tmdb_id=24883), pause 10s...
+14:40:09 [WARNING] Rate limit (tmdb_id=414027), pause 10s...
+14:40:09 [WARNING] Rate limit (tmdb_id=70989), pause 10s...
+14:40:10 [WARNING] Rate limit (tmdb_id=189420), pause 10s...
+14:40:11 [WARNING] Rate limit (tmdb_id=83909), pause 10s...
+14:40:11 [WARNING] Rate limit (tmdb_id=82409), pause 10s...
+14:40:11 [WARNING] Rate limit (tmdb_id=55385), pause 10s...
+14:40:20 [INFO] Cache sauvegardé (2,500 traités)
+14:40:32 [INFO] Progression : 3,000/87,425 (3.4%) — OK: 3,001 — Erreurs: 0
+14:40:32 [INFO] Cache sauvegardé (3,000 traités)
+14:40:44 [INFO] Cache sauvegardé (3,500 traités)
+14:40:56 [INFO] Progression : 4,000/87,425 (4.6%) — OK: 4,001 — Erreurs: 0
+14:40:56 [INFO] Cache sauvegardé (4,000 traités)
+14:41:09 [INFO] Cache sauvegardé (4,500 traités)
+14:41:21 [INFO] Progression : 5,000/87,425 (5.7%) — OK: 5,001 — Erreurs: 0
+14:41:21 [INFO] Cache sauvegardé (5,000 traités)
+14:41:33 [INFO] Cache sauvegardé (5,500 traités)
+14:41:45 [INFO] Progression : 6,000/87,425 (6.9%) — OK: 6,002 — Erreurs: 0
+14:41:46 [INFO] Cache sauvegardé (6,000 traités)
+14:41:59 [INFO] Cache sauvegardé (6,500 traités)
+14:42:11 [INFO] Progression : 7,000/87,425 (8.0%) — OK: 7,001 — Erreurs: 0
+14:42:12 [INFO] Cache sauvegardé (7,000 traités)
+14:42:20 [WARNING] Rate limit (tmdb_id=177436), pause 10s...
+14:42:20 [WARNING] Rate limit (tmdb_id=136585), pause 10s...
+14:42:21 [WARNING] Rate limit (tmdb_id=346494), pause 10s...
+14:42:21 [WARNING] Rate limit (tmdb_id=416673), pause 10s...
+14:42:21 [WARNING] Rate limit (tmdb_id=361787), pause 10s...
+14:42:25 [INFO] Cache sauvegardé (7,500 traités)
+14:42:33 [WARNING] Rate limit (tmdb_id=62327), pause 10s...
+14:42:33 [WARNING] Rate limit (tmdb_id=423710), pause 10s...
+14:42:37 [WARNING] Rate limit (tmdb_id=957997), pause 10s...
+14:42:37 [WARNING] Rate limit (tmdb_id=33222), pause 10s...
+14:42:37 [INFO] Progression : 8,000/87,425 (9.2%) — OK: 8,001 — Erreurs: 0
+14:42:38 [INFO] Cache sauvegardé (8,000 traités)
+14:42:45 [WARNING] Rate limit (tmdb_id=173249), pause 10s...
+14:42:50 [INFO] Cache sauvegardé (8,500 traités)
+14:42:50 [WARNING] Rate limit (tmdb_id=333663), pause 10s...
+14:42:50 [WARNING] Rate limit (tmdb_id=338832), pause 10s...
+14:43:03 [INFO] Progression : 9,000/87,425 (10.3%) — OK: 9,001 — Erreurs: 0
+14:43:04 [INFO] Cache sauvegardé (9,000 traités)
+14:43:17 [INFO] Cache sauvegardé (9,500 traités)
+14:43:28 [INFO] Progression : 10,000/87,425 (11.4%) — OK: 10,001 — Erreurs: 0
+14:43:29 [INFO] Cache sauvegardé (10,000 traités)
+14:43:41 [INFO] Cache sauvegardé (10,500 traités)
+14:43:53 [INFO] Progression : 11,000/87,425 (12.6%) — OK: 11,001 — Erreurs: 0
+14:43:54 [INFO] Cache sauvegardé (11,000 traités)
+14:44:06 [INFO] Cache sauvegardé (11,500 traités)
+14:44:18 [INFO] Progression : 12,000/87,425 (13.7%) — OK: 12,001 — Erreurs: 0
+14:44:20 [INFO] Cache sauvegardé (12,000 traités)
+14:44:32 [INFO] Cache sauvegardé (12,500 traités)
+14:44:44 [INFO] Progression : 13,000/87,425 (14.9%) — OK: 13,002 — Erreurs: 0
+14:44:45 [INFO] Cache sauvegardé (13,000 traités)
+14:44:57 [INFO] Cache sauvegardé (13,500 traités)
+14:45:09 [INFO] Progression : 14,000/87,425 (16.0%) — OK: 14,002 — Erreurs: 0
+14:45:10 [INFO] Cache sauvegardé (14,000 traités)
+14:45:23 [INFO] Cache sauvegardé (14,500 traités)
+14:45:34 [INFO] Progression : 15,000/87,425 (17.2%) — OK: 15,001 — Erreurs: 0
+14:45:34 [INFO] Cache sauvegardé (15,000 traités)
+14:45:47 [INFO] Cache sauvegardé (15,500 traités)
+14:45:59 [INFO] Progression : 16,000/87,425 (18.3%) — OK: 16,001 — Erreurs: 0
+14:45:59 [INFO] Cache sauvegardé (16,000 traités)
+14:46:11 [INFO] Cache sauvegardé (16,500 traités)
+14:46:23 [INFO] Progression : 17,000/87,425 (19.4%) — OK: 17,001 — Erreurs: 0
+14:46:24 [INFO] Cache sauvegardé (17,000 traités)
+14:46:37 [INFO] Cache sauvegardé (17,500 traités)
+14:46:48 [INFO] Progression : 18,000/87,425 (20.6%) — OK: 18,001 — Erreurs: 0
+14:46:49 [INFO] Cache sauvegardé (18,000 traités)
+14:47:02 [INFO] Cache sauvegardé (18,500 traités)
+14:47:14 [INFO] Progression : 19,000/87,425 (21.7%) — OK: 19,001 — Erreurs: 0
+14:47:15 [INFO] Cache sauvegardé (19,000 traités)
+14:47:27 [INFO] Cache sauvegardé (19,500 traités)
+14:47:39 [INFO] Progression : 20,000/87,425 (22.9%) — OK: 20,002 — Erreurs: 0
+14:47:40 [INFO] Cache sauvegardé (20,000 traités)
+14:47:52 [INFO] Cache sauvegardé (20,500 traités)
+14:48:04 [INFO] Progression : 21,000/87,425 (24.0%) — OK: 21,001 — Erreurs: 0
+14:48:05 [INFO] Cache sauvegardé (21,000 traités)
+14:48:17 [INFO] Cache sauvegardé (21,500 traités)
+14:48:29 [INFO] Progression : 22,000/87,425 (25.2%) — OK: 22,001 — Erreurs: 0
+14:48:30 [INFO] Cache sauvegardé (22,000 traités)
+14:48:43 [INFO] Cache sauvegardé (22,500 traités)
+14:48:54 [INFO] Progression : 23,000/87,425 (26.3%) — OK: 23,001 — Erreurs: 0
+14:48:56 [INFO] Cache sauvegardé (23,000 traités)
+14:49:08 [INFO] Cache sauvegardé (23,500 traités)
+14:49:19 [INFO] Progression : 24,000/87,425 (27.5%) — OK: 24,001 — Erreurs: 0
+14:49:20 [INFO] Cache sauvegardé (24,000 traités)
+14:49:32 [INFO] Cache sauvegardé (24,500 traités)
+14:49:44 [INFO] Progression : 25,000/87,425 (28.6%) — OK: 25,001 — Erreurs: 0
+14:49:45 [INFO] Cache sauvegardé (25,000 traités)
+14:49:58 [INFO] Cache sauvegardé (25,500 traités)
+14:50:09 [INFO] Progression : 26,000/87,425 (29.7%) — OK: 26,001 — Erreurs: 0
+14:50:10 [INFO] Cache sauvegardé (26,000 traités)
+14:50:22 [INFO] Cache sauvegardé (26,500 traités)
+14:50:34 [INFO] Progression : 27,000/87,425 (30.9%) — OK: 27,001 — Erreurs: 0
+14:50:35 [INFO] Cache sauvegardé (27,000 traités)
+14:50:47 [INFO] Cache sauvegardé (27,500 traités)
+14:50:59 [INFO] Progression : 28,000/87,425 (32.0%) — OK: 28,001 — Erreurs: 0
+14:51:00 [INFO] Cache sauvegardé (28,000 traités)
+14:51:13 [INFO] Cache sauvegardé (28,500 traités)
+14:51:24 [INFO] Progression : 29,000/87,425 (33.2%) — OK: 29,001 — Erreurs: 0
+14:51:25 [INFO] Cache sauvegardé (29,000 traités)
+14:51:37 [INFO] Cache sauvegardé (29,500 traités)
+14:51:49 [INFO] Progression : 30,000/87,425 (34.3%) — OK: 30,002 — Erreurs: 0
+14:51:50 [INFO] Cache sauvegardé (30,000 traités)
+14:52:03 [INFO] Cache sauvegardé (30,500 traités)
+14:52:14 [INFO] Progression : 31,000/87,425 (35.5%) — OK: 31,001 — Erreurs: 0
+14:52:15 [INFO] Cache sauvegardé (31,000 traités)
+14:52:27 [INFO] Cache sauvegardé (31,500 traités)
+14:52:39 [INFO] Progression : 32,000/87,425 (36.6%) — OK: 32,001 — Erreurs: 0
+14:52:40 [INFO] Cache sauvegardé (32,000 traités)
+14:52:54 [INFO] Cache sauvegardé (32,500 traités)
+14:53:06 [INFO] Progression : 33,000/87,425 (37.7%) — OK: 33,001 — Erreurs: 0
+14:53:09 [INFO] Cache sauvegardé (33,000 traités)
+14:53:23 [INFO] Cache sauvegardé (33,500 traités)
+14:53:34 [INFO] Progression : 34,000/87,425 (38.9%) — OK: 34,001 — Erreurs: 0
+14:53:35 [INFO] Cache sauvegardé (34,000 traités)
+14:53:48 [INFO] Cache sauvegardé (34,500 traités)
+14:53:59 [INFO] Progression : 35,000/87,425 (40.0%) — OK: 35,001 — Erreurs: 0
+14:54:01 [INFO] Cache sauvegardé (35,000 traités)
+14:54:13 [INFO] Cache sauvegardé (35,500 traités)
+14:54:24 [INFO] Progression : 36,000/87,425 (41.2%) — OK: 36,002 — Erreurs: 0
+14:54:26 [INFO] Cache sauvegardé (36,000 traités)
+14:54:38 [INFO] Cache sauvegardé (36,500 traités)
+14:54:50 [INFO] Progression : 37,000/87,425 (42.3%) — OK: 37,001 — Erreurs: 0
+14:54:51 [INFO] Cache sauvegardé (37,000 traités)
+14:55:03 [INFO] Cache sauvegardé (37,500 traités)
+14:55:15 [INFO] Progression : 38,000/87,425 (43.5%) — OK: 38,001 — Erreurs: 0
+14:55:16 [INFO] Cache sauvegardé (38,000 traités)
+14:55:27 [WARNING] Rate limit (tmdb_id=43719), pause 10s...
+14:55:27 [WARNING] Rate limit (tmdb_id=123603), pause 10s...
+14:55:27 [WARNING] Rate limit (tmdb_id=475830), pause 10s...
+14:55:29 [INFO] Cache sauvegardé (38,500 traités)
+14:55:40 [INFO] Progression : 39,000/87,425 (44.6%) — OK: 39,001 — Erreurs: 0
+14:55:42 [INFO] Cache sauvegardé (39,000 traités)
+14:55:54 [INFO] Cache sauvegardé (39,500 traités)
+14:56:06 [INFO] Progression : 40,000/87,425 (45.8%) — OK: 40,001 — Erreurs: 0
+14:56:07 [INFO] Cache sauvegardé (40,000 traités)
+14:56:20 [INFO] Cache sauvegardé (40,500 traités)
+14:56:31 [INFO] Progression : 41,000/87,425 (46.9%) — OK: 41,001 — Erreurs: 0
+14:56:33 [INFO] Cache sauvegardé (41,000 traités)
+14:56:45 [INFO] Cache sauvegardé (41,500 traités)
+14:56:56 [INFO] Progression : 42,000/87,425 (48.0%) — OK: 42,001 — Erreurs: 0
+14:56:58 [INFO] Cache sauvegardé (42,000 traités)
+14:57:10 [INFO] Cache sauvegardé (42,500 traités)
+14:57:22 [INFO] Progression : 43,000/87,425 (49.2%) — OK: 43,001 — Erreurs: 0
+14:57:23 [INFO] Cache sauvegardé (43,000 traités)
+14:57:36 [INFO] Cache sauvegardé (43,500 traités)
+14:57:47 [INFO] Progression : 44,000/87,425 (50.3%) — OK: 44,001 — Erreurs: 0
+14:57:49 [INFO] Cache sauvegardé (44,000 traités)
+14:58:01 [INFO] Cache sauvegardé (44,500 traités)
+14:58:12 [INFO] Progression : 45,000/87,425 (51.5%) — OK: 45,001 — Erreurs: 0
+14:58:14 [INFO] Cache sauvegardé (45,000 traités)
+14:58:26 [INFO] Cache sauvegardé (45,500 traités)
+14:58:38 [INFO] Progression : 46,000/87,425 (52.6%) — OK: 46,001 — Erreurs: 0
+14:58:39 [INFO] Cache sauvegardé (46,000 traités)
+14:58:52 [INFO] Cache sauvegardé (46,500 traités)
+14:59:03 [WARNING] Rate limit (tmdb_id=215302), pause 10s...
+14:59:03 [WARNING] Rate limit (tmdb_id=268712), pause 10s...
+14:59:04 [WARNING] Rate limit (tmdb_id=66428), pause 10s...
+14:59:04 [INFO] Progression : 47,000/87,425 (53.8%) — OK: 47,001 — Erreurs: 0
+14:59:06 [INFO] Cache sauvegardé (47,000 traités)
+14:59:19 [INFO] Cache sauvegardé (47,500 traités)
+14:59:30 [INFO] Progression : 48,000/87,425 (54.9%) — OK: 48,001 — Erreurs: 0
+14:59:32 [INFO] Cache sauvegardé (48,000 traités)
+14:59:44 [INFO] Cache sauvegardé (48,500 traités)
+14:59:56 [INFO] Progression : 49,000/87,425 (56.0%) — OK: 49,001 — Erreurs: 0
+14:59:57 [INFO] Cache sauvegardé (49,000 traités)
+15:00:10 [INFO] Cache sauvegardé (49,500 traités)
+15:00:21 [INFO] Progression : 50,000/87,425 (57.2%) — OK: 50,001 — Erreurs: 0
+15:00:23 [INFO] Cache sauvegardé (50,000 traités)
+15:00:36 [INFO] Cache sauvegardé (50,500 traités)
+15:00:47 [INFO] Progression : 51,000/87,425 (58.3%) — OK: 51,001 — Erreurs: 0
+15:00:49 [INFO] Cache sauvegardé (51,000 traités)
+15:01:02 [INFO] Cache sauvegardé (51,500 traités)
+15:01:13 [INFO] Progression : 52,000/87,425 (59.5%) — OK: 52,001 — Erreurs: 0
+15:01:14 [INFO] Cache sauvegardé (52,000 traités)
+15:01:27 [INFO] Cache sauvegardé (52,500 traités)
+15:01:38 [INFO] Progression : 53,000/87,425 (60.6%) — OK: 53,001 — Erreurs: 0
+15:01:40 [INFO] Cache sauvegardé (53,000 traités)
+15:01:53 [INFO] Cache sauvegardé (53,500 traités)
+15:02:04 [INFO] Progression : 54,000/87,425 (61.8%) — OK: 54,001 — Erreurs: 0
+15:02:05 [INFO] Cache sauvegardé (54,000 traités)
+15:02:18 [INFO] Cache sauvegardé (54,500 traités)
+15:02:30 [INFO] Progression : 55,000/87,425 (62.9%) — OK: 55,001 — Erreurs: 0
+15:02:32 [INFO] Cache sauvegardé (55,000 traités)
+15:02:45 [INFO] Cache sauvegardé (55,500 traités)
+15:02:56 [INFO] Progression : 56,000/87,425 (64.1%) — OK: 56,003 — Erreurs: 0
+15:02:57 [INFO] Cache sauvegardé (56,000 traités)
+15:03:10 [INFO] Cache sauvegardé (56,500 traités)
+15:03:21 [INFO] Progression : 57,000/87,425 (65.2%) — OK: 57,001 — Erreurs: 0
+15:03:23 [INFO] Cache sauvegardé (57,000 traités)
+15:03:36 [INFO] Cache sauvegardé (57,500 traités)
+15:03:48 [INFO] Progression : 58,000/87,425 (66.3%) — OK: 58,001 — Erreurs: 0
+15:03:50 [INFO] Cache sauvegardé (58,000 traités)
+15:04:03 [INFO] Cache sauvegardé (58,500 traités)
+15:04:14 [INFO] Progression : 59,000/87,425 (67.5%) — OK: 59,001 — Erreurs: 0
+15:04:16 [INFO] Cache sauvegardé (59,000 traités)
+15:04:29 [INFO] Cache sauvegardé (59,500 traités)
+15:04:40 [INFO] Progression : 60,000/87,425 (68.6%) — OK: 60,002 — Erreurs: 0
+15:04:42 [INFO] Cache sauvegardé (60,000 traités)
+15:04:55 [INFO] Cache sauvegardé (60,500 traités)
+15:05:06 [INFO] Progression : 61,000/87,425 (69.8%) — OK: 61,001 — Erreurs: 0
+15:05:08 [INFO] Cache sauvegardé (61,000 traités)
+15:05:21 [INFO] Cache sauvegardé (61,500 traités)
+15:05:32 [INFO] Progression : 62,000/87,425 (70.9%) — OK: 62,001 — Erreurs: 0
+15:05:35 [INFO] Cache sauvegardé (62,000 traités)
+15:05:48 [INFO] Cache sauvegardé (62,500 traités)
+15:05:59 [INFO] Progression : 63,000/87,425 (72.1%) — OK: 63,001 — Erreurs: 0
+15:06:01 [INFO] Cache sauvegardé (63,000 traités)
+15:06:14 [INFO] Cache sauvegardé (63,500 traités)
+15:06:25 [INFO] Progression : 64,000/87,425 (73.2%) — OK: 64,001 — Erreurs: 0
+15:06:27 [INFO] Cache sauvegardé (64,000 traités)
+15:06:40 [INFO] Cache sauvegardé (64,500 traités)
+15:06:52 [INFO] Progression : 65,000/87,425 (74.3%) — OK: 65,001 — Erreurs: 0
+15:06:54 [INFO] Cache sauvegardé (65,000 traités)
+15:07:07 [INFO] Cache sauvegardé (65,500 traités)
+15:07:19 [INFO] Progression : 66,000/87,425 (75.5%) — OK: 66,001 — Erreurs: 0
+15:07:21 [INFO] Cache sauvegardé (66,000 traités)
+15:07:34 [INFO] Cache sauvegardé (66,500 traités)
+15:07:45 [INFO] Progression : 67,000/87,425 (76.6%) — OK: 67,003 — Erreurs: 0
+15:07:47 [INFO] Cache sauvegardé (67,000 traités)
+15:08:01 [INFO] Cache sauvegardé (67,500 traités)
+15:08:12 [INFO] Progression : 68,000/87,425 (77.8%) — OK: 68,003 — Erreurs: 0
+15:08:14 [INFO] Cache sauvegardé (68,000 traités)
+15:08:27 [INFO] Cache sauvegardé (68,500 traités)
+15:08:38 [INFO] Progression : 69,000/87,425 (78.9%) — OK: 69,001 — Erreurs: 0
+15:08:41 [INFO] Cache sauvegardé (69,000 traités)
+15:08:54 [INFO] Cache sauvegardé (69,500 traités)
+15:09:05 [INFO] Progression : 70,000/87,425 (80.1%) — OK: 70,001 — Erreurs: 0
+15:09:07 [INFO] Cache sauvegardé (70,000 traités)
+15:09:21 [INFO] Cache sauvegardé (70,500 traités)
+15:09:32 [INFO] Progression : 71,000/87,425 (81.2%) — OK: 71,001 — Erreurs: 0
+15:09:34 [INFO] Cache sauvegardé (71,000 traités)
+15:09:48 [INFO] Cache sauvegardé (71,500 traités)
+15:09:59 [INFO] Progression : 72,000/87,425 (82.4%) — OK: 72,001 — Erreurs: 0
+15:10:02 [INFO] Cache sauvegardé (72,000 traités)
+15:10:16 [INFO] Cache sauvegardé (72,500 traités)
+15:10:27 [INFO] Progression : 73,000/87,425 (83.5%) — OK: 73,001 — Erreurs: 0
+15:10:35 [INFO] Cache sauvegardé (73,000 traités)
+15:10:52 [INFO] Cache sauvegardé (73,500 traités)
+15:11:03 [INFO] Progression : 74,000/87,425 (84.6%) — OK: 74,001 — Erreurs: 0
+15:11:13 [INFO] Cache sauvegardé (74,000 traités)
+15:11:35 [INFO] Cache sauvegardé (74,500 traités)
+15:11:46 [INFO] Progression : 75,000/87,425 (85.8%) — OK: 75,001 — Erreurs: 0
+15:11:58 [INFO] Cache sauvegardé (75,000 traités)
+15:12:18 [INFO] Cache sauvegardé (75,500 traités)
+15:12:30 [INFO] Progression : 76,000/87,425 (86.9%) — OK: 76,017 — Erreurs: 0
+15:12:48 [INFO] Cache sauvegardé (76,000 traités)
+15:12:48 [ERROR] Erreur movie tmdb_id=9628: 
+15:12:48 [ERROR] Erreur movie tmdb_id=369138: 
+15:12:48 [ERROR] Erreur movie tmdb_id=60181: 
+15:12:48 [ERROR] Erreur movie tmdb_id=19525: 
+15:12:48 [ERROR] Erreur movie tmdb_id=81417: 
+15:12:48 [ERROR] Erreur movie tmdb_id=59585: 
+15:12:48 [ERROR] Erreur movie tmdb_id=143355: 
+15:12:48 [ERROR] Erreur movie tmdb_id=142881: 
+15:12:48 [ERROR] Erreur movie tmdb_id=619907: 
+15:12:48 [ERROR] Erreur movie tmdb_id=29185: 
+15:12:48 [ERROR] Erreur movie tmdb_id=195378: 
+15:12:48 [ERROR] Erreur movie tmdb_id=35219: 
+15:12:48 [ERROR] Erreur movie tmdb_id=17725: 
+15:12:48 [ERROR] Erreur movie tmdb_id=10638: 
+15:12:48 [ERROR] Erreur movie tmdb_id=5637: 
+15:12:48 [ERROR] Erreur movie tmdb_id=462636: 
+15:12:48 [ERROR] Erreur movie tmdb_id=409134: 
+15:12:48 [ERROR] Erreur movie tmdb_id=32855: 
+15:12:48 [ERROR] Erreur movie tmdb_id=94577: 
+15:12:48 [ERROR] Erreur movie tmdb_id=72913: 
+15:12:48 [ERROR] Erreur movie tmdb_id=702752: 
+15:12:48 [ERROR] Erreur movie tmdb_id=392794: 
+15:12:48 [ERROR] Erreur movie tmdb_id=27489: 
+15:12:48 [ERROR] Erreur movie tmdb_id=118209: 
+15:12:48 [ERROR] Erreur movie tmdb_id=94959: 
+15:12:48 [ERROR] Erreur movie tmdb_id=6956: 
+15:13:07 [INFO] Cache sauvegardé (76,500 traités)
+15:13:18 [INFO] Progression : 77,000/87,425 (88.1%) — OK: 77,001 — Erreurs: 0
+15:13:27 [INFO] Cache sauvegardé (77,000 traités)
+15:13:50 [INFO] Cache sauvegardé (77,500 traités)
+15:14:01 [INFO] Progression : 78,000/87,425 (89.2%) — OK: 78,001 — Erreurs: 0
+15:14:04 [INFO] Cache sauvegardé (78,000 traités)
+15:14:17 [INFO] Cache sauvegardé (78,500 traités)
+15:14:28 [INFO] Progression : 79,000/87,425 (90.4%) — OK: 79,001 — Erreurs: 0
+15:14:31 [INFO] Cache sauvegardé (79,000 traités)
+15:14:45 [INFO] Cache sauvegardé (79,500 traités)
+15:14:56 [INFO] Progression : 80,000/87,425 (91.5%) — OK: 80,001 — Erreurs: 0
+15:14:58 [INFO] Cache sauvegardé (80,000 traités)
+15:15:12 [INFO] Cache sauvegardé (80,500 traités)
+15:15:23 [INFO] Progression : 81,000/87,425 (92.7%) — OK: 81,001 — Erreurs: 0
+15:15:26 [INFO] Cache sauvegardé (81,000 traités)
+15:15:40 [INFO] Cache sauvegardé (81,500 traités)
+15:15:51 [INFO] Progression : 82,000/87,425 (93.8%) — OK: 82,001 — Erreurs: 0
+15:15:54 [INFO] Cache sauvegardé (82,000 traités)
+15:16:07 [INFO] Cache sauvegardé (82,500 traités)
+15:16:18 [INFO] Progression : 83,000/87,425 (94.9%) — OK: 83,001 — Erreurs: 0
+15:16:21 [INFO] Cache sauvegardé (83,000 traités)
+15:16:35 [INFO] Cache sauvegardé (83,500 traités)
+15:16:46 [INFO] Progression : 84,000/87,425 (96.1%) — OK: 84,001 — Erreurs: 0
+15:16:49 [INFO] Cache sauvegardé (84,000 traités)
+15:17:03 [INFO] Cache sauvegardé (84,500 traités)
+15:17:14 [INFO] Progression : 85,000/87,425 (97.2%) — OK: 85,001 — Erreurs: 0
+15:17:16 [INFO] Cache sauvegardé (85,000 traités)
+15:17:30 [INFO] Cache sauvegardé (85,500 traités)
+15:17:41 [INFO] Progression : 86,000/87,425 (98.4%) — OK: 86,001 — Erreurs: 0
+15:17:44 [INFO] Cache sauvegardé (86,000 traités)
+15:17:58 [INFO] Cache sauvegardé (86,500 traités)
+15:18:09 [INFO] Progression : 87,000/87,425 (99.5%) — OK: 86,504 — Erreurs: 497
+15:18:12 [INFO] Cache sauvegardé (87,000 traités)
+15:18:24 [INFO] ✅ Phase 1 terminée : 751 films non trouvés par ID direct
+15:18:24 [INFO] Films manquants à rechercher : 383
+15:18:24 [INFO] [2/2] Recherche par titre pour 383 films manquants...
+15:18:24 [INFO] ✅ Retrouvé : 'Ten Little Indians (Ein Unbekannter rechnet ab) (And Then There Were None)' (1974) | ancien ID 4883 → nouveau ID 4883
+15:18:24 [INFO] ✅ Retrouvé : 'Journey to the Center of the Earth' (2008) | ancien ID 88751 → nouveau ID 88751
+15:18:25 [INFO] ✅ Retrouvé : 'Take a Girl Like You' (1970) | ancien ID 194817 → nouveau ID 194817
+15:18:25 [INFO] ✅ Retrouvé : 'National Lampoon's Vacation' (1983) | ancien ID 11153 → nouveau ID 11153
+15:18:25 [INFO] ✅ Retrouvé : 'Histoire(s) du Cinéma: A Single (Hi)story' (1989) | ancien ID 91296 → nouveau ID 91296
+15:18:25 [INFO] ✅ Retrouvé : 'Upperseven, l'uomo da uccidere' (1966) | ancien ID 203888 → nouveau ID 203888
+15:18:25 [INFO] ✅ Retrouvé : 'Weekend of a Champion' (1972) | ancien ID 196253 → nouveau ID 196253
+15:18:25 [INFO] ✅ Retrouvé : 'River' (2016) | ancien ID 353732 → nouveau ID 482006
+15:18:25 [INFO] ✅ Retrouvé : 'It's a Boy Girl Thing' (2006) | ancien ID 37725 → nouveau ID 37725
+15:18:25 [INFO] ✅ Retrouvé : 'The Tattoo Connection' (1978) | ancien ID 95955 → nouveau ID 95955
+15:18:25 [INFO] ✅ Retrouvé : 'Shogun Assassin' (1980) | ancien ID 15119 → nouveau ID 15119
+15:18:25 [INFO] ✅ Retrouvé : 'Eurocrime! The Italian Cop and Gangster Films That Ruled the '70s' (2012) | ancien ID 99332 → nouveau ID 99332
+15:18:25 [INFO] ✅ Retrouvé : 'When the Game Stands Tall' (2014) | ancien ID 232679 → nouveau ID 232679
+15:18:25 [INFO] ✅ Retrouvé : 'I Don't Want to Sleep Alone (Hei yan quan)' (2006) | ancien ID 12130 → nouveau ID 12130
+15:18:25 [INFO] ✅ Retrouvé : 'Night of the Day of the Dawn of the Son of the Bride of the Return of the Terror' (1991) | ancien ID 22616 → nouveau ID 22616
+15:18:25 [INFO] ✅ Retrouvé : 'Starship' (1984) | ancien ID 94502 → nouveau ID 94502
+15:18:26 [WARNING] Introuvable via search : 'Chinna Gounder' (1992)
+15:18:26 [WARNING] Introuvable via search : 'The Secret of Crickley Hall' (2012)
+15:18:26 [INFO] ✅ Retrouvé : 'Dark Angel (I Come in Peace)' (1990) | ancien ID 19384 → nouveau ID 19384
+15:18:26 [WARNING] Introuvable via search : 'Occupied - Die Besatzung' (2015)
+15:18:26 [WARNING] Introuvable via search : 'The Honourable Woman' (2014)
+15:18:26 [WARNING] Introuvable via search : 'Dying is Easy' (2021)
+15:18:26 [WARNING] Introuvable via search : 'Pornography: A Secret History of Civilisation' (1999)
+15:18:26 [INFO] ✅ Retrouvé : 'Final Days of Planet Earth' (2006) | ancien ID 16067 → nouveau ID 16067
+15:18:26 [WARNING] Introuvable via search : 'C600: Infiltration' (2021)
+15:18:26 [WARNING] Introuvable via search : 'Space Odyssey: Voyage to the Planets' (2004)
+15:18:26 [WARNING] Introuvable via search : 'C600' (2020)
+15:18:26 [WARNING] Introuvable via search : 'Taking Tiger Mountain Revisited' (2019)
+15:18:26 [WARNING] Introuvable via search : 'Downton Abbey: Christmas Special 2015' (2015)
+15:18:26 [WARNING] Introuvable via search : 'Rick and Morty: State of Georgia Vs. Denver Fenton Allen' (2016)
+15:18:26 [WARNING] Introuvable via search : 'Macross Dynamite Seven' (1997)
+15:18:26 [WARNING] Introuvable via search : 'Two Fencers' (1891)
+15:18:26 [WARNING] Introuvable via search : 'U.F.Oh Yeah' (2015)
+15:18:26 [WARNING] Introuvable via search : 'The Forsyte Saga' (1967)
+15:18:26 [WARNING] Introuvable via search : 'Stonemouth' (2015)
+15:18:26 [WARNING] Introuvable via search : 'Can't Get You Out of My Head: An Emotional History of the Modern World' (2021)
+15:18:26 [WARNING] Introuvable via search : 'Stephen Fry: The Secret Life of the Manic Depressive' (2006)
+15:18:26 [WARNING] Introuvable via search : 'The First Annual 'On Cinema' Oscar Special' (2013)
+15:18:26 [WARNING] Introuvable via search : 'Death Comes to Pemberley' (2013)
+15:18:26 [WARNING] Introuvable via search : 'Sallie Gardner at a Gallop' (1878)
+15:18:26 [WARNING] Introuvable via search : 'Extralarge: Black and White' (1991)
+15:18:27 [INFO] ✅ Retrouvé : 'The Doctor Takes a Wife' (1940) | ancien ID 108200 → nouveau ID 108200
+15:18:27 [INFO] ✅ Retrouvé : '40 Days and 40 Nights' (2002) | ancien ID 2752 → nouveau ID 2752
+15:18:27 [WARNING] Introuvable via search : 'Saber Marionette R' (1995)
+15:18:27 [WARNING] Introuvable via search : 'Maigret Lays a Trap (Maigret tend un piège)' (1958)
+15:18:27 [WARNING] Introuvable via search : 'The Case of: JonBenét Ramsey' (2016)
+15:18:27 [WARNING] Introuvable via search : 'The American Film Institute Salute to Frank Capra' (1982)
+15:18:27 [WARNING] Introuvable via search : 'Predator: Dark Ages' (2015)
+15:18:27 [WARNING] Introuvable via search : 'Prime Suspect: The Lost Child' (1995)
+15:18:27 [INFO] ✅ Retrouvé : 'The Defiant Ones' (1958) | ancien ID 11414 → nouveau ID 11414
+15:18:27 [WARNING] Introuvable via search : 'Pingu's The Thing' (2012)
+15:18:27 [WARNING] Introuvable via search : 'Jean-Claude Van Johnson' (2016)
+15:18:27 [WARNING] Introuvable via search : 'Inside the Third Reich' (1982)
+15:18:27 [WARNING] Introuvable via search : '11.22.63' (2016)
+15:18:27 [WARNING] Introuvable via search : 'A Blaster In The Right Hands: A Star Wars Story' (2021)
+15:18:27 [WARNING] Introuvable via search : 'World's Biggest Beasts' (2015)
+15:18:27 [INFO] ✅ Retrouvé : 'Star Wars: Episode IV - A New Hope' (1977) | ancien ID 11 → nouveau ID 11
+15:18:27 [INFO] ✅ Retrouvé : 'Payback' (1999) | ancien ID 2112 → nouveau ID 2112
+15:18:27 [WARNING] Introuvable via search : 'The Second Annual 'On Cinema' Oscar Special' (2014)
+15:18:27 [WARNING] Introuvable via search : 'Never Tear Us Apart: The Untold Story of INXS' (2014)
+15:18:27 [WARNING] Introuvable via search : 'Xiao Kang' (2015)
+15:18:27 [INFO] ✅ Retrouvé : 'Inseparable' (2011) | ancien ID 51245 → nouveau ID 51245
+15:18:27 [WARNING] Introuvable via search : 'Rudge and Whitworth, Britain's Best Bicycle' (1902)
+15:18:27 [WARNING] Introuvable via search : 'The Vote: Part 1' (2020)
+15:18:27 [WARNING] Introuvable via search : 'Holy Musical B@man!' (2012)
+15:18:27 [INFO] ✅ Retrouvé : 'Pirates of the Caribbean: Dead Man's Chest' (2006) | ancien ID 58 → nouveau ID 58
+15:18:27 [INFO] ✅ Retrouvé : 'Out On A Limb' (1992) | ancien ID 114726 → nouveau ID 114726
+15:18:27 [WARNING] Introuvable via search : 'Crisis in Six Scenes' (2016)
+15:18:27 [WARNING] Introuvable via search : 'Prime Suspect 7: The Final Act' (2006)
+15:18:27 [INFO] ✅ Retrouvé : 'Star Wars: The Legacy Revealed' (2007) | ancien ID 128295 → nouveau ID 128295
+15:18:28 [WARNING] Introuvable via search : 'Julia Louis-Dreyfus: The Kennedy Center Mark Twain Prize' (2018)
+15:18:28 [WARNING] Introuvable via search : 'The Vote: Part 2' (2020)
+15:18:28 [INFO] ✅ Retrouvé : 'Tess of the D'Urbervilles' (1998) | ancien ID 128714 → nouveau ID 128714
+15:18:28 [INFO] ✅ Retrouvé : 'Shaka Zulu: The Citadel' (2001) | ancien ID 51175 → nouveau ID 51175
+15:18:28 [INFO] ✅ Retrouvé : 'Mulholland Drive' (2001) | ancien ID 1018 → nouveau ID 1018
+15:18:28 [INFO] ✅ Retrouvé : 'The Fighting Fists of Shanghai Joe' (1973) | ancien ID 30489 → nouveau ID 30489
+15:18:28 [WARNING] Introuvable via search : 'C600: Step Back in Time' (2021)
+15:18:28 [INFO] ✅ Retrouvé : 'A Wedding' (1978) | ancien ID 45695 → nouveau ID 45695
+15:18:28 [WARNING] Introuvable via search : 'Prime Suspect 6: The Last Witness' (2003)
+15:18:28 [INFO] ✅ Retrouvé : 'Lara Croft Tomb Raider: The Cradle of Life' (2003) | ancien ID 1996 → nouveau ID 1996
+15:18:28 [WARNING] Introuvable via search : 'The Third Annual 'On Cinema' Oscar Special' (2015)
+15:18:28 [WARNING] Introuvable via search : 'Lady Blue Shanghai' (2010)
+15:18:28 [INFO] ✅ Retrouvé : 'Bonnie and Clyde' (1967) | ancien ID 475 → nouveau ID 475
+15:18:28 [INFO] ✅ Retrouvé : 'Merry Madagascar' (2009) | ancien ID 25472 → nouveau ID 25472
+15:18:28 [WARNING] Introuvable via search : 'Beforel Orel: Trust' (2012)
+15:18:28 [WARNING] Introuvable via search : 'Kenobi: A Star Wars Story' (2019)
+15:18:28 [INFO] ✅ Retrouvé : 'The Nativity' (1978) | ancien ID 293380 → nouveau ID 293380
+15:18:28 [WARNING] Introuvable via search : 'Atomic Train' (1999)
+15:18:28 [INFO] ✅ Retrouvé : 'The Outsiders' (1983) | ancien ID 227 → nouveau ID 227
+15:18:28 [INFO] ✅ Retrouvé : 'World War III' (2023) | ancien ID 1005299 → nouveau ID 1005299
+15:18:28 [WARNING] Introuvable via search : 'Predator vs. Colonial Marines' (2016)
+15:18:29 [WARNING] Introuvable via search : 'Vad tyst det blev...' (2006)
+15:18:29 [WARNING] Introuvable via search : 'A Rumor of War' (1980)
+15:18:29 [INFO] ✅ Retrouvé : 'Wolf Creek' (2005) | ancien ID 9885 → nouveau ID 9885
+15:18:29 [WARNING] Introuvable via search : 'Green Legend Ran' (1992)
+15:18:29 [WARNING] Introuvable via search : 'Power of Nightmares, The: The Rise of the Politics of Fear' (2004)
+15:18:29 [INFO] ✅ Retrouvé : 'In This Corner of the World' (2016) | ancien ID 378108 → nouveau ID 378108
+15:18:29 [WARNING] Introuvable via search : 'Fictitious Anacin Commercial' (1967)
+15:18:29 [WARNING] Introuvable via search : 'Superheroes: A Never-Ending Battle' (2013)
+15:18:29 [WARNING] Introuvable via search : 'North Pole: Open For Christmas' (2015)
+15:18:29 [WARNING] Introuvable via search : 'World War II: When Lions Roared' (1994)
+15:18:29 [INFO] ✅ Retrouvé : 'The Dark Knight' (2008) | ancien ID 155 → nouveau ID 155
+15:18:29 [WARNING] Introuvable via search : 'Victoria's Secret Fashion Show 2016' (2016)
+15:18:29 [INFO] ✅ Retrouvé : 'The Fearless Triplets' (2004) | ancien ID 164288 → nouveau ID 164288
+15:18:29 [WARNING] Introuvable via search : 'Rat Movie: Mystery of the Mayan Treasure' (2014)
+15:18:29 [WARNING] Introuvable via search : 'Polish Legends: Operacja Bazyliszek' (2016)
+15:18:29 [WARNING] Introuvable via search : 'Jungle de Ikou (Jungre de Ikou)' (1997)
+15:18:29 [INFO] ✅ Retrouvé : 'War of the Worlds' (2005) | ancien ID 74 → nouveau ID 74
+15:18:29 [WARNING] Introuvable via search : 'Jim Henson's The Storyteller' (1989)
+15:18:29 [WARNING] Introuvable via search : 'At the Suicide of the Last Jew in the World in the Last Cinema in the World' (2007)
+15:18:29 [WARNING] Introuvable via search : 'The Trap: What Happened to Our Dream of Freedom' (2007)
+15:18:29 [WARNING] Introuvable via search : 'Atop the Fourth Wall: The Movie' (2015)
+15:18:29 [WARNING] Introuvable via search : 'I Promessi sposi - Secondo il Trio' (1989)
+15:18:29 [WARNING] Introuvable via search : 'Dark Heart AKA Wagstaffe' (2016)
+15:18:29 [WARNING] Introuvable via search : 'Polish Legends: The Dragon' (2015)
+15:18:30 [WARNING] Introuvable via search : 'The Infinite Worlds of H.G. Wells' (2001)
+15:18:30 [WARNING] Introuvable via search : 'Undue Influence' (1996)
+15:18:30 [WARNING] Introuvable via search : 'Mushishi: The Shadow That Devours the Sun' (2014)
+15:18:30 [WARNING] Introuvable via search : 'Russian Hackers: The Beginning' (2022)
+15:18:30 [WARNING] Introuvable via search : 'The Jinx: The Life and Deaths of Robert Durst' (2015)
+15:18:30 [WARNING] Introuvable via search : 'Mikhaylo Lomonosov' (1986)
+15:18:30 [WARNING] Introuvable via search : 'Li'l Quinquin' (2014)
+15:18:30 [WARNING] Introuvable via search : 'Let's All Go to the Lobby' (1957)
+15:18:30 [WARNING] Introuvable via search : 'Red Hood: The Fallen' (2015)
+15:18:30 [WARNING] Introuvable via search : 'Self-Portrait As A Coffee Pot' (2022)
+15:18:30 [INFO] ✅ Retrouvé : 'Pennies from Heaven' (1981) | ancien ID 17450 → nouveau ID 17450
+15:18:30 [WARNING] Introuvable via search : 'ANI: A Parody' (2014)
+15:18:30 [WARNING] Introuvable via search : 'Polish Legends: Jaga' (2016)
+15:18:30 [WARNING] Introuvable via search : 'The Devil's Whore' (2008)
+15:18:30 [INFO] ✅ Retrouvé : 'Mara und der Feuerbringer' (2015) | ancien ID 328032 → nouveau ID 328032
+15:18:30 [WARNING] Introuvable via search : 'Pee-Nut' (2002)
+15:18:30 [WARNING] Introuvable via search : '3x3 Eyes: Legend of the Divine Demon' (1995)
+15:18:30 [INFO] ✅ Retrouvé : 'Touch of Evil' (1958) | ancien ID 1480 → nouveau ID 1480
+15:18:30 [INFO] ✅ Retrouvé : 'Dinner Game, The (Dîner de cons, Le)' (1998) | ancien ID 9421 → nouveau ID 9421
+15:18:30 [WARNING] Introuvable via search : 'Pokemon: The Arceus Chronicles (Movie Version)' (2022)
+15:18:30 [WARNING] Introuvable via search : 'The Last Enemy' (2008)
+15:18:30 [WARNING] Introuvable via search : 'The Dragon Dentist: Tengumushi' (2017)
+15:18:30 [INFO] ✅ Retrouvé : 'The Hidden Child' (2013) | ancien ID 389614 → nouveau ID 389614
+15:18:30 [INFO] ✅ Retrouvé : 'Blackout' (2012) | ancien ID 334584 → nouveau ID 334584
+15:18:30 [WARNING] Introuvable via search : 'Chainsaw Maid 2' (2010)
+15:18:30 [INFO] ✅ Retrouvé : 'Sense and Sensibility' (1995) | ancien ID 4584 → nouveau ID 4584
+15:18:30 [WARNING] Introuvable via search : 'The Mayfair Set' (1999)
+15:18:31 [INFO] ✅ Retrouvé : 'Telling Lies in America' (1997) | ancien ID 63437 → nouveau ID 63437
+15:18:31 [INFO] ✅ Retrouvé : 'Rainer Werner Fassbinder's World on a Wire: Looking Ahead to Today' (2010) | ancien ID 394385 → nouveau ID 394385
+15:18:31 [WARNING] Introuvable via search : 'Last Will of Dr. Mabuse, The (Testament du Dr. Mabuse, Le)' (1933)
+15:18:31 [WARNING] Introuvable via search : 'Star Wars Downunder' (2013)
+15:18:31 [WARNING] Introuvable via search : 'The Victoria's Secret Fashion Show 2001' (2001)
+15:18:31 [INFO] ✅ Retrouvé : 'Living Bad' (2023) | ancien ID 1077686 → nouveau ID 1077686
+15:18:31 [WARNING] Introuvable via search : 'Tanner '88' (1988)
+15:18:31 [INFO] ✅ Retrouvé : 'Where Are You Going, Habibi?' (2015) | ancien ID 394148 → nouveau ID 394148
+15:18:31 [WARNING] Introuvable via search : 'BoJack Horseman Christmas Special: Sabrina's Christmas Wish' (2014)
+15:18:31 [INFO] ✅ Retrouvé : 'Day of the Warrior' (1996) | ancien ID 67396 → nouveau ID 67396
+15:18:31 [WARNING] Introuvable via search : 'Muppet*Vision 3-D' (1991)
+15:18:31 [WARNING] Introuvable via search : 'Mankink : The Story of All of Us' (2013)
+15:18:31 [WARNING] Introuvable via search : 'Adventure Time: Islands' (2017)
+15:18:31 [INFO] ✅ Retrouvé : 'Oliver Twist' (1997) | ancien ID 49146 → nouveau ID 49146
+15:18:31 [INFO] ✅ Retrouvé : 'Therapy for a Vampire' (2015) | ancien ID 335837 → nouveau ID 335837
+15:18:31 [WARNING] Introuvable via search : 'Detectorists Special' (2022)
+15:18:31 [WARNING] Introuvable via search : 'Neben der Spur - Amnesie' (2016)
+15:18:31 [INFO] ✅ Retrouvé : 'Political Animals' (2016) | ancien ID 400933 → nouveau ID 400933
+15:18:31 [INFO] ✅ Retrouvé : 'Women in Love' (1969) | ancien ID 66027 → nouveau ID 66027
+15:18:31 [WARNING] Introuvable via search : 'The Night Manager' (2016)
+15:18:31 [WARNING] Introuvable via search : 'Africa: The Greatest Show On Earth' (2013)
+15:18:31 [WARNING] Introuvable via search : 'The Nazis: A Warning from History' (1997)
+15:18:31 [WARNING] Introuvable via search : 'Monkey Planet' (2014)
+15:18:32 [WARNING] Introuvable via search : 'A che punto é la notte' (1994)
+15:18:32 [INFO] ✅ Retrouvé : 'Happy Death Day' (2017) | ancien ID 440021 → nouveau ID 440021
+15:18:32 [WARNING] Introuvable via search : 'Sinatra: All or Nothing at All' (2015)
+15:18:32 [WARNING] Introuvable via search : 'he takes the pills' (2015)
+15:18:32 [WARNING] Introuvable via search : 'The Casual Vacancy' (2015)
+15:18:32 [WARNING] Introuvable via search : 'Suburban Knights' (2011)
+15:18:32 [WARNING] Introuvable via search : 'David Lynch Cooks Quinoa' (2007)
+15:18:32 [WARNING] Introuvable via search : 'The Moorside' (2017)
+15:18:32 [WARNING] Introuvable via search : 'Deadpool Musical: Beauty and the Beast Gaston Parody' (2017)
+15:18:32 [WARNING] Introuvable via search : 'The Killing Season' (2016)
+15:18:32 [INFO] ✅ Retrouvé : 'House of Cards' (1993) | ancien ID 47095 → nouveau ID 47095
+15:18:32 [WARNING] Introuvable via search : 'Texas Rising' (2015)
+15:18:32 [WARNING] Introuvable via search : 'The Men Who Built America' (2012)
+15:18:32 [WARNING] Introuvable via search : 'Thief and the Cobbler, The (a.k.a. Arabian Knight)' (1995)
+15:18:32 [WARNING] Introuvable via search : 'Charles II: The Power & the Passion' (2003)
+15:18:32 [WARNING] Introuvable via search : 'A History of Horror with Mark Gatiss' (2010)
+15:18:32 [WARNING] Introuvable via search : 'Spongebob Squarepants 4D Attraction: The Great Jelly Rescue' (2013)
+15:18:32 [WARNING] Introuvable via search : 'Battlestar Galactica: The Lowdown' (2003)
+15:18:32 [WARNING] Introuvable via search : 'A Lion in the House' (2006)
+15:18:32 [INFO] ✅ Retrouvé : 'Be Here Now' (2015) | ancien ID 339158 → nouveau ID 339158
+15:18:32 [WARNING] Introuvable via search : 'Rhythm Nation 1814' (1989)
+15:18:32 [WARNING] Introuvable via search : 'Great Planet Evil-Destroyer Dangaio' (1987)
+15:18:32 [WARNING] Introuvable via search : 'The Secrets of Quantum Physics' (2014)
+15:18:32 [INFO] ✅ Retrouvé : 'The Cave' (2019) | ancien ID 547090 → nouveau ID 621729
+15:18:32 [WARNING] Introuvable via search : 'The Greater Good - Harry Potter Fan Film' (2013)
+15:18:33 [WARNING] Introuvable via search : 'The Enfield Haunting' (2015)
+15:18:33 [WARNING] Introuvable via search : 'Louis Theroux: By Reason of Insanity' (2015)
+15:18:33 [WARNING] Introuvable via search : 'XIII: The Conspiracy' (2008)
+15:18:33 [WARNING] Introuvable via search : 'Not-So Amazing' (2020)
+15:18:33 [WARNING] Introuvable via search : 'A Body to Die For: The Aaron Henry Story' (1994)
+15:18:33 [WARNING] Introuvable via search : 'Code of a Killer' (2015)
+15:18:33 [WARNING] Introuvable via search : 'All Watched Over by Machines of Loving Grace' (2011)
+15:18:33 [WARNING] Introuvable via search : 'Horace and Pete' (2016)
+15:18:33 [WARNING] Introuvable via search : 'Act Da Fool' (2010)
+15:18:33 [WARNING] Introuvable via search : 'A.D. The Bible Continues' (2015)
+15:18:33 [INFO] ✅ Retrouvé : 'Apparition' (2014) | ancien ID 338520 → nouveau ID 2001
+15:18:33 [WARNING] Introuvable via search : 'The Fourth Annual 'On Cinema' Oscar Special' (2016)
+15:18:33 [WARNING] Introuvable via search : 'The 7th Annual Live 'On Cinema' Oscar Special' (2020)
+15:18:33 [WARNING] Introuvable via search : 'Podstrochnik' (2009)
+15:18:33 [WARNING] Introuvable via search : '07/27/1978' (2017)
+15:18:33 [WARNING] Introuvable via search : 'Die Lederstrumpferzählungen' (1969)
+15:18:33 [WARNING] Introuvable via search : 'Meurtres en Lorraine' (2019)
+15:18:33 [WARNING] Introuvable via search : 'Biting Elbows: Bad Motherfucker' (2013)
+15:18:33 [WARNING] Introuvable via search : 'Maigrets Night at the Crossroads' (2017)
+15:18:33 [WARNING] Introuvable via search : 'Halo: The Fall of Reach' (2015)
+15:18:33 [WARNING] Introuvable via search : 'The Trail to Oregon!' (2015)
+15:18:33 [WARNING] Introuvable via search : 'After The Disaster: Stories from The Tsunami' (2020)
+15:18:33 [WARNING] Introuvable via search : 'Naruto: Find the Crimson Four-leaf Clover!' (2003)
+15:18:34 [WARNING] Introuvable via search : 'LIFE BEYOND: Chapter 1. Alien life, deep time, and our place in cosmic history' (2019)
+15:18:34 [WARNING] Introuvable via search : 'Back To The Future: The Ride' (1991)
+15:18:34 [INFO] ✅ Retrouvé : 'Wild Rose' (2019) | ancien ID 482981 → nouveau ID 482981
+15:18:34 [INFO] ✅ Retrouvé : 'Double Plus Fifteen' (2020) | ancien ID 589535 → nouveau ID 589535
+15:18:34 [WARNING] Introuvable via search : 'Alien: Covenant - Prologue: Meet Walter' (2017)
+15:18:34 [WARNING] Introuvable via search : 'The Secret Life of Marilyn Monroe' (2015)
+15:18:34 [WARNING] Introuvable via search : 'ONEDREAMRUSH' (2010)
+15:18:34 [WARNING] Introuvable via search : 'Auditorium 6' (2017)
+15:18:34 [INFO] ✅ Retrouvé : 'I'm Just F*cking with You' (2019) | ancien ID 586044 → nouveau ID 586044
+15:18:34 [WARNING] Introuvable via search : 'Adventure Time: Elements' (2017)
+15:18:34 [WARNING] Introuvable via search : 'Spies of Warsaw' (2013)
+15:18:34 [WARNING] Introuvable via search : 'SMART: The Documentary' (2016)
+15:18:34 [INFO] ✅ Retrouvé : 'The Donkey King' (2018) | ancien ID 557132 → nouveau ID 557132
+15:18:34 [WARNING] Introuvable via search : 'Leningrad Cowboys: These Boots' (1993)
+15:18:34 [WARNING] Introuvable via search : 'Taken at the Flood' (2006)
+15:18:34 [WARNING] Introuvable via search : 'Shock and Awe: The Story of Electricity' (2011)
+15:18:34 [WARNING] Introuvable via search : 'Darth Maul: Apprentice' (2016)
+15:18:34 [WARNING] Introuvable via search : 'Role Play: Women on Fassbinder' (1992)
+15:18:34 [WARNING] Introuvable via search : 'The New On Cinema Oscar Special' (2019)
+15:18:34 [WARNING] Introuvable via search : 'Anytime Is Ice Cream Time' (2013)
+15:18:34 [WARNING] Introuvable via search : 'The Victoria's Secret Fashion Show 2013' (2013)
+15:18:35 [INFO] ✅ Retrouvé : 'See You Soon' (2019) | ancien ID 610781 → nouveau ID 610781
+15:18:35 [WARNING] Introuvable via search : 'Distant Vision' (2015)
+15:18:35 [WARNING] Introuvable via search : 'Relentless: The Making of 'Elektra'' (2005)
+15:18:35 [INFO] ✅ Retrouvé : 'The Odd Family: Zombie on Sale' (2019) | ancien ID 572151 → nouveau ID 572151
+15:18:35 [WARNING] Introuvable via search : 'Zoku Owarimonogatari' (2018)
+15:18:35 [WARNING] Introuvable via search : 'Voldemort: Origins of the Heir' (2018)
+15:18:35 [WARNING] Introuvable via search : 'Living with Trevor' (2017)
+15:18:35 [WARNING] Introuvable via search : 'Genius of the Modern World: Nietzsche' (2016)
+15:18:35 [WARNING] Introuvable via search : 'Leningrad Cowboys: Those Were the Days' (1992)
+15:18:35 [WARNING] Introuvable via search : 'Jonestown: Terror in the Jungle' (2018)
+15:18:35 [WARNING] Introuvable via search : 'Shrek Retold' (2018)
+15:18:35 [WARNING] Introuvable via search : 'A Very Potter Senior Year' (2013)
+15:18:35 [WARNING] Introuvable via search : 'Pretend That You Love Me' (2020)
+15:18:35 [WARNING] Introuvable via search : 'Boris Giuliano: Un poliziotto a Palermo' (2016)
+15:18:35 [WARNING] Introuvable via search : 'Sherlok Kholms i doktor Vatson' (2005)
+15:18:35 [WARNING] Introuvable via search : 'Genius of the Modern World: Marx' (2016)
+15:18:35 [WARNING] Introuvable via search : 'Psych: The Musical' (2013)
+15:18:35 [WARNING] Introuvable via search : 'The Putin Interviews' (2017)
+15:18:35 [WARNING] Introuvable via search : 'Queer for Fear: The History of Queer Horror' (2022)
+15:18:35 [WARNING] Introuvable via search : 'Justice League: Dawn of Apokolips' (2017)
+15:18:35 [WARNING] Introuvable via search : 'Genius of the Modern World: Freud' (2016)
+15:18:36 [WARNING] Introuvable via search : 'Boys Playing Leapfrog: Side View' (1887)
+15:18:36 [INFO] ✅ Retrouvé : 'Ossan's Love: Love or Dead' (2019) | ancien ID 617134 → nouveau ID 617134
+15:18:36 [WARNING] Introuvable via search : 'Victoria's Secret Fashion  Show 2017' (2017)
+15:18:36 [WARNING] Introuvable via search : 'Ice Age Continental Drift: Scrat Got Your Tongue' (2012)
+15:18:36 [WARNING] Introuvable via search : 'Blue Planet II' (2017)
+15:18:36 [WARNING] Introuvable via search : 'Tiffany Haddish Presents: They Ready' (2019)
+15:18:36 [WARNING] Introuvable via search : 'Helter Skelter: An American Myth' (2020)
+15:18:36 [WARNING] Introuvable via search : 'Guardians of the Galaxy: Inferno' (2017)
+15:18:36 [WARNING] Introuvable via search : 'Hearts of Kyber' (2017)
+15:18:36 [WARNING] Introuvable via search : 'Gorshochek Kashi' (1984)
+15:18:36 [WARNING] Introuvable via search : 'Neznaika na lune' (1997)
+15:18:36 [WARNING] Introuvable via search : 'Foyle's War - War Games' (2003)
+15:18:36 [WARNING] Introuvable via search : 'Latin Music USA' (2009)
+15:18:36 [INFO] ✅ Retrouvé : 'To the Ends of the Earth' (1948) | ancien ID 39943 → nouveau ID 39943
+15:18:36 [WARNING] Introuvable via search : 'Ari Shaffir: Double Negative' (2017)
+15:18:36 [WARNING] Introuvable via search : 'I Love You, Now Die: The Commonwealth Vs. Michelle Carter' (2019)
+15:18:36 [WARNING] Introuvable via search : 'Law of the Lawless (Brigada)' (2002)
+15:18:36 [WARNING] Introuvable via search : 'Sherlock: The Empty Hearse' (2013)
+15:18:36 [WARNING] Introuvable via search : 'Raising Kratos' (2019)
+15:18:36 [WARNING] Introuvable via search : 'Smiling Friends' (2020)
+15:18:36 [WARNING] Introuvable via search : 'Making a Murderer' (2015)
+15:18:36 [INFO] ✅ Retrouvé : 'Rise of the Teenage Mutant Ninja Turtles: The Movie' (2022) | ancien ID 765172 → nouveau ID 765172
+15:18:36 [WARNING] Introuvable via search : 'The Fifth Annual 'On Cinema' Oscar Special' (2018)
+15:18:36 [WARNING] Introuvable via search : 'Athlete Swinging a Pick' (1880)
+15:18:37 [WARNING] Introuvable via search : 'Child Bringing Bouquet to Woman' (1887)
+15:18:37 [WARNING] Introuvable via search : 'Parade's End' (2012)
+15:18:37 [WARNING] Introuvable via search : 'BET Awards' (2020)
+15:18:37 [WARNING] Introuvable via search : 'TDF Really Works' (2011)
+15:18:37 [WARNING] Introuvable via search : 'AFI Life Achievement Award: A Tribute to Al Pacino' (2007)
+15:18:37 [WARNING] Introuvable via search : 'Furries the Movie' (2020)
+15:18:37 [WARNING] Introuvable via search : 'LIFE BEYOND: Chapter 2. The Museum of Alien Life' (2020)
+15:18:37 [WARNING] Introuvable via search : 'Behind the Fallout' (2018)
+15:18:37 [WARNING] Introuvable via search : 'After the Night with Valerie' (2019)
+15:18:37 [WARNING] Introuvable via search : '7 Days Out' (2018)
+15:18:37 [WARNING] Introuvable via search : 'Evil Genius: The True Story of America's Most Diabolical Bank Heist' (2018)
+15:18:37 [WARNING] Introuvable via search : 'Who killed the Neanderthal? - Extended' (2017)
+15:18:37 [INFO] ✅ Retrouvé : 'The Long, Hot Summer' (1958) | ancien ID 40085 → nouveau ID 40085
+15:18:37 [WARNING] Introuvable via search : 'Maigret in Montmartre' (2017)
+15:18:37 [WARNING] Introuvable via search : 'The Turtle's Head' (2014)
+15:18:37 [WARNING] Introuvable via search : 'Leningrad: Kolshik' (2017)
+15:18:37 [WARNING] Introuvable via search : 'Big Time Christmas' (2010)
+15:18:37 [WARNING] Introuvable via search : 'Don't F**k With Cats: Hunting an Internet Killer' (2019)
+15:18:37 [WARNING] Introuvable via search : 'American Experience: Chicago: City of the Century (2): The Revolution Has Begun' (2003)
+15:18:37 [WARNING] Introuvable via search : 'Electra Woman and Dyna Girl' (2016)
+15:18:37 [WARNING] Introuvable via search : 'Helluva Boss' (2019)
+15:18:37 [WARNING] Introuvable via search : 'Killer Construction: Norio Osada on Lady Snowblood' (2016)
+15:18:37 [WARNING] Introuvable via search : 'Werewolf Women of the S.S.' (2007)
+15:18:37 [WARNING] Introuvable via search : 'For Whom the Bell Tolls: Part 2' (1959)
+15:18:37 [WARNING] Introuvable via search : 'Bitva za Moskvu' (1985)
+15:18:37 [WARNING] Introuvable via search : 'The Honeymoon Stand-Up Special' (2018)
+15:18:38 [WARNING] Introuvable via search : 'American Experience: Chicago: City of the Century (1): Mudhole to Metropolis' (2003)
+15:18:38 [WARNING] Introuvable via search : 'Welcome to Hoxford : The fan film' (2011)
+15:18:38 [WARNING] Introuvable via search : 'Saturday Night Live: 40th Anniversary Special' (2015)
+15:18:38 [WARNING] Introuvable via search : 'Semi-Nude Woman Hopping on Left Foot' (1887)
+15:18:38 [WARNING] Introuvable via search : 'Люди и манекены' (1974)
+15:18:38 [WARNING] Introuvable via search : 'The Magic Rosette' (1878)
+15:18:38 [WARNING] Introuvable via search : 'Rob Cantor: Shia LaBeouf Live' (2014)
+15:18:38 [WARNING] Introuvable via search : 'For Whom the Bell Tolls: Part 1' (1959)
+15:18:38 [WARNING] Introuvable via search : 'Neo Yokio: Pink Christmas' (2018)
+15:18:38 [WARNING] Introuvable via search : 'Brotherhood of the Rose' (1989)
+15:18:38 [WARNING] Introuvable via search : 'Tenacious D: Post-Apocalypto' (2018)
+15:18:41 [INFO] ✅ Phase 2 terminée : 74/383 films récupérés via search
+15:18:42 [INFO] 💾 Sauvegardé → ..\data\enriched\tmdb_metadata.parquet
+15:18:42 [INFO]    86,671 lignes, 39 colonnes
+15:24:02 [INFO] Films à scrapper : 87,425
+15:24:03 [INFO] Total      : 87,425
+15:24:03 [INFO] En cache   : 86,671
+15:24:03 [INFO] À scrapper : 754
+15:24:36 [INFO] Cache sauvegardé (500 traités)
+15:24:44 [INFO] ✅ Phase 1 terminée : 742 films non trouvés par ID direct
+15:24:44 [INFO] Films manquants à rechercher : 754
+15:24:44 [INFO] [2/2] Recherche par titre pour 754 films manquants...
+15:24:44 [WARNING] Introuvable via search : 'LIFE BEYOND: Chapter 1. Alien life, deep time, and our place in cosmic history' (2019)
+15:24:44 [WARNING] Introuvable via search : 'Death Comes to Pemberley' (2013)
+15:24:44 [WARNING] Introuvable via search : 'Meurtres en Lorraine' (2019)
+15:24:44 [WARNING] Introuvable via search : 'Killer Construction: Norio Osada on Lady Snowblood' (2016)
+15:24:44 [WARNING] Introuvable via search : 'Brotherhood of the Rose' (1989)
+15:24:44 [WARNING] Introuvable via search : 'Tenacious D: Post-Apocalypto' (2018)
+15:24:44 [WARNING] Introuvable via search : 'Podstrochnik' (2009)
+15:24:44 [WARNING] Introuvable via search : 'Never Tear Us Apart: The Untold Story of INXS' (2014)
+15:24:44 [WARNING] Introuvable via search : 'The 7th Annual Live 'On Cinema' Oscar Special' (2020)
+15:24:44 [WARNING] Introuvable via search : 'Deadpool Musical: Beauty and the Beast Gaston Parody' (2017)
+15:24:44 [WARNING] Introuvable via search : 'Jim Henson's The Storyteller' (1989)
+15:24:44 [WARNING] Introuvable via search : 'I Promessi sposi - Secondo il Trio' (1989)
+15:24:44 [WARNING] Introuvable via search : 'World War II: When Lions Roared' (1994)
+15:24:44 [WARNING] Introuvable via search : 'Maigrets Night at the Crossroads' (2017)
+15:24:44 [WARNING] Introuvable via search : 'Queer for Fear: The History of Queer Horror' (2022)
+15:24:44 [WARNING] Introuvable via search : 'The Forsyte Saga' (1967)
+15:24:44 [WARNING] Introuvable via search : 'Adventure Time: Elements' (2017)
+15:24:44 [WARNING] Introuvable via search : 'Role Play: Women on Fassbinder' (1992)
+15:24:44 [WARNING] Introuvable via search : 'Prime Suspect 7: The Final Act' (2006)
+15:24:44 [WARNING] Introuvable via search : 'Prime Suspect 6: The Last Witness' (2003)
+15:24:44 [INFO] ✅ Retrouvé : 'Мафия' (2016) | ancien ID 354297 → nouveau ID 375108
+15:24:44 [INFO] ✅ Retrouvé : 'Sword Art Online Extra Edition' (2013) | ancien ID 256955 → nouveau ID 1012404
+15:24:44 [INFO] ✅ Retrouvé : 'Tut' (2015) | ancien ID 353462 → nouveau ID 345881
+15:24:44 [WARNING] Introuvable via search : 'After The Disaster: Stories from The Tsunami' (2020)
+15:24:44 [WARNING] Introuvable via search : 'Darth Maul: Apprentice' (2016)
+15:24:44 [WARNING] Introuvable via search : 'Xiao Kang' (2015)
+15:24:44 [WARNING] Introuvable via search : 'Zoku Owarimonogatari' (2018)
+15:24:44 [INFO] ✅ Retrouvé : 'Little Boy Blue' (2017) | ancien ID 452191 → nouveau ID 637484
+15:24:44 [INFO] ✅ Retrouvé : 'The Gangster' (2012) | ancien ID 141702 → nouveau ID 99332
+15:24:44 [INFO] ✅ Retrouvé : 'Peter's To-Do List' (2019) | ancien ID 667430 → nouveau ID 758025
+15:24:44 [INFO] ✅ Retrouvé : 'Twisted' (2013) | ancien ID 239895 → nouveau ID 477525
+15:24:45 [INFO] ✅ Retrouvé : '40' (2003) | ancien ID 263255 → nouveau ID 2752
+15:24:45 [INFO] ✅ Retrouvé : 'Roots' (2016) | ancien ID 400174 → nouveau ID 340005
+15:24:45 [INFO] ✅ Retrouvé : 'Снежные дорожки' (1963) | ancien ID 399828 → nouveau ID 144984
+15:24:45 [INFO] ✅ Retrouvé : 'Godzilla: Eater of Stars' (2018) | ancien ID 536927 → nouveau ID 536115
+15:24:45 [WARNING] Introuvable via search : 'Vad tyst det blev...' (2006)
+15:24:45 [INFO] ✅ Retrouvé : 'Marriage' (1978) | ancien ID 445739 → nouveau ID 45695
+15:24:45 [INFO] ✅ Retrouvé : 'Asylum of Darkness' (2017) | ancien ID 445916 → nouveau ID 425935
+15:24:45 [INFO] ✅ Retrouvé : 'The Sixties' (2013) | ancien ID 357125 → nouveau ID 280072
+15:24:45 [INFO] ✅ Retrouvé : 'Megalopolis Express Way Trial' (1988) | ancien ID 401707 → nouveau ID 108651
+15:24:45 [INFO] ✅ Retrouvé : 'Criminals' (1996) | ancien ID 538286 → nouveau ID 794317
+15:24:45 [INFO] ✅ Retrouvé : 'The Landlord' (2017) | ancien ID 548004 → nouveau ID 495715
+15:24:45 [WARNING] Introuvable via search : 'A Rumor of War' (1980)
+15:24:45 [INFO] ✅ Retrouvé : 'Black Friday' (2020) | ancien ID 679014 → nouveau ID 1624217
+15:24:45 [INFO] ✅ Retrouvé : 'Murder Death Koreatown' (2020) | ancien ID 675522 → nouveau ID 1433354
+15:24:45 [INFO] ✅ Retrouvé : 'The Comedian' (1957) | ancien ID 263570 → nouveau ID 1091037
+15:24:45 [WARNING] Introuvable via search : 'Jonestown: Terror in the Jungle' (2018)
+15:24:45 [WARNING] Introuvable via search : 'Taken at the Flood' (2006)
+15:24:45 [WARNING] Introuvable via search : 'Let's All Go to the Lobby' (1957)
+15:24:45 [WARNING] Introuvable via search : 'Back To The Future: The Ride' (1991)
+15:24:45 [INFO] ✅ Retrouvé : 'The Battle of Sutjeska' (1973) | ancien ID 143355 → nouveau ID 143355
+15:24:45 [INFO] ✅ Retrouvé : 'Cool Cat Stops Bullying' (2012) | ancien ID 405547 → nouveau ID 1444258
+15:24:45 [INFO] ✅ Retrouvé : 'A Town Has Turned to Dust' (1958) | ancien ID 353653 → nouveau ID 1076338
+15:24:45 [WARNING] Introuvable via search : 'Shrek Retold' (2018)
+15:24:45 [INFO] ✅ Retrouvé : 'Forbidden Area' (1956) | ancien ID 357935 → nouveau ID 997570
+15:24:45 [INFO] ✅ Retrouvé : 'National Parks Adventures' (2016) | ancien ID 397586 → nouveau ID 384043
+15:24:45 [INFO] ✅ Retrouvé : 'Cold War 2' (2016) | ancien ID 404302 → nouveau ID 416249
+15:24:45 [WARNING] Introuvable via search : 'Rudge and Whitworth, Britain's Best Bicycle' (1902)
+15:24:45 [INFO] ✅ Retrouvé : 'Sinatra' (1992) | ancien ID 263953 → nouveau ID 1282884
+15:24:45 [INFO] ✅ Retrouvé : 'Tom and Jerry' (1955) | ancien ID 357130 → nouveau ID 1372338
+15:24:45 [WARNING] Introuvable via search : 'Smiling Friends' (2020)
+15:24:45 [INFO] ✅ Retrouvé : 'Walt Disney' (2015) | ancien ID 360086 → nouveau ID 348666
+15:24:45 [INFO] ✅ Retrouvé : 'Kommunist' (1958) | ancien ID 142881 → nouveau ID 142881
+15:24:45 [INFO] ✅ Retrouvé : 'Joan Baez: How Sweet the Sound' (2009) | ancien ID 405627 → nouveau ID 272977
+15:24:45 [WARNING] Introuvable via search : 'Voldemort: Origins of the Heir' (2018)
+15:24:45 [INFO] ✅ Retrouvé : 'Seven Billiard Tables (Siete mesas de billar francés)' (2007) | ancien ID 355551 → nouveau ID 42400
+15:24:45 [INFO] ✅ Retrouvé : 'Twist of Fate' (2016) | ancien ID 405979 → nouveau ID 404845
+15:24:45 [INFO] ✅ Retrouvé : 'Secrets of Underground London' (2014) | ancien ID 455166 → nouveau ID 732816
+15:24:45 [INFO] ✅ Retrouvé : 'Megalopolis Express Way Trial 2' (1990) | ancien ID 401885 → nouveau ID 108653
+15:24:45 [INFO] ✅ Retrouvé : 'Kino's Journey' (2003) | ancien ID 354402 → nouveau ID 833013
+15:24:45 [WARNING] Introuvable via search : 'The Secrets of Quantum Physics' (2014)
+15:24:45 [WARNING] Introuvable via search : 'The Greater Good - Harry Potter Fan Film' (2013)
+15:24:45 [INFO] ✅ Retrouvé : 'Borderless' (2019) | ancien ID 558304 → nouveau ID 1628358
+15:24:46 [INFO] ✅ Retrouvé : 'Prohibition' (2011) | ancien ID 140465 → nouveau ID 1064976
+15:24:46 [INFO] ✅ Retrouvé : 'V: The Final Battle' (1984) | ancien ID 140161 → nouveau ID 117059
+15:24:46 [INFO] ✅ Retrouvé : 'Me and My Dick' (2009) | ancien ID 239891 → nouveau ID 48830
+15:24:46 [WARNING] Introuvable via search : 'The Victoria's Secret Fashion Show 2013' (2013)
+15:24:46 [WARNING] Introuvable via search : 'Shock and Awe: The Story of Electricity' (2011)
+15:24:46 [INFO] ✅ Retrouvé : 'Oliver Twist' (1999) | ancien ID 136867 → nouveau ID 49146
+15:24:46 [INFO] ✅ Retrouvé : 'Thief' (2006) | ancien ID 265758 → nouveau ID 9520
+15:24:46 [INFO] ✅ Retrouvé : 'Prescription: Murder' (1968) | ancien ID 360626 → nouveau ID 509109
+15:24:46 [INFO] ✅ Retrouvé : 'Merry Christmas Mr. Bean' (1992) | ancien ID 550493 → nouveau ID 1603575
+15:24:46 [INFO] ✅ Retrouvé : 'Burn the Witch' (2020) | ancien ID 685022 → nouveau ID 1160901
+15:24:46 [INFO] ✅ Retrouvé : 'Bonnie and Clyde' (2013) | ancien ID 239471 → nouveau ID 475
+15:24:46 [INFO] ✅ Retrouvé : 'Space' (1985) | ancien ID 266314 → nouveau ID 394829
+15:24:46 [INFO] ✅ Retrouvé : 'Welcome to Hell' (2013) | ancien ID 363731 → nouveau ID 1443751
+15:24:46 [INFO] ✅ Retrouvé : 'Alien: Covenant - Prologue: Last Supper' (2017) | ancien ID 456504 → nouveau ID 1472042
+15:24:46 [INFO] ✅ Retrouvé : 'A Brilliant Madness' (2002) | ancien ID 361340 → nouveau ID 640661
+15:24:46 [WARNING] Introuvable via search : 'Horace and Pete' (2016)
+15:24:46 [INFO] ✅ Retrouvé : 'Knife in the Dark' (1954) | ancien ID 357143 → nouveau ID 1234941
+15:24:46 [WARNING] Introuvable via search : 'The Putin Interviews' (2017)
+15:24:46 [INFO] ✅ Retrouvé : 'Rebel Scum' (2016) | ancien ID 675515 → nouveau ID 298050
+15:24:46 [INFO] ✅ Retrouvé : 'Jack & Me' (1973) | ancien ID 144449 → nouveau ID 30489
+15:24:46 [INFO] ✅ Retrouvé : 'The Adventures of Sherlock Holmes and Doctor Watson: The Hunt for the Tiger' (1980) | ancien ID 406403 → nouveau ID 126854
+15:24:46 [INFO] ✅ Retrouvé : 'It's Such a Beautiful Day' (2012) | ancien ID 147538 → nouveau ID 489412
+15:24:46 [WARNING] Introuvable via search : 'The Last Enemy' (2008)
+15:24:46 [INFO] ✅ Retrouvé : 'Three heroes and the King of the Sea' (2017) | ancien ID 446850 → nouveau ID 422058
+15:24:46 [INFO] ✅ Retrouvé : 'School's out' (2015) | ancien ID 401840 → nouveau ID 166577
+15:24:46 [WARNING] Introuvable via search : 'Leningrad Cowboys: These Boots' (1993)
+15:24:46 [INFO] ✅ Retrouvé : 'Shadowed' (2020) | ancien ID 689040 → nouveau ID 197821
+15:24:46 [WARNING] Introuvable via search : 'Superheroes: A Never-Ending Battle' (2013)
+15:24:46 [INFO] ✅ Retrouvé : 'Alien: Covenant - Prologue: The Crossing' (2017) | ancien ID 457491 → nouveau ID 1439792
+15:24:46 [WARNING] Introuvable via search : 'Blue Planet II' (2017)
+15:24:46 [INFO] ✅ Retrouvé : 'Secrets of Westminster' (2014) | ancien ID 455419 → nouveau ID 860302
+15:24:46 [INFO] ✅ Retrouvé : 'Он вам не Димон' (2017) | ancien ID 457307 → nouveau ID 1595140
+15:24:46 [WARNING] Introuvable via search : 'Leningrad Cowboys: Those Were the Days' (1992)
+15:24:46 [WARNING] Introuvable via search : 'Beforel Orel: Trust' (2012)
+15:24:46 [WARNING] Introuvable via search : 'Naruto: Find the Crimson Four-leaf Clover!' (2003)
+15:24:46 [INFO] ✅ Retrouvé : 'Here Now' (2015) | ancien ID 362860 → nouveau ID 339158
+15:24:46 [INFO] ✅ Retrouvé : 'My Brother Jack' (2001) | ancien ID 139915 → nouveau ID 223572
+15:24:46 [INFO] ✅ Retrouvé : 'Out of Shadows' (2020) | ancien ID 691930 → nouveau ID 1128949
+15:24:46 [INFO] ✅ Retrouvé : 'A Gathering of Cats' (2007) | ancien ID 407430 → nouveau ID 262833
+15:24:46 [WARNING] Introuvable via search : 'Distant Vision' (2015)
+15:24:46 [INFO] ✅ Retrouvé : 'Our Life' (2017) | ancien ID 461581 → nouveau ID 1489779
+15:24:46 [INFO] ✅ Retrouvé : 'The Dark Side of the Rainbow' (2000) | ancien ID 686667 → nouveau ID 1327385
+15:24:46 [INFO] ✅ Retrouvé : 'At the Beginning of Glorious Days' (1980) | ancien ID 147172 → nouveau ID 1519404
+15:24:46 [INFO] ✅ Retrouvé : 'The Dust Bowl' (2012) | ancien ID 144114 → nouveau ID 495333
+15:24:46 [WARNING] Introuvable via search : 'Fictitious Anacin Commercial' (1967)
+15:24:46 [INFO] ✅ Retrouvé : 'World Cinema' (2007) | ancien ID 401150 → nouveau ID 1262209
+15:24:46 [WARNING] Introuvable via search : 'Pornography: A Secret History of Civilisation' (1999)
+15:24:46 [WARNING] Introuvable via search : '07/27/1978' (2017)
+15:24:46 [WARNING] Introuvable via search : 'Relentless: The Making of 'Elektra'' (2005)
+15:24:46 [INFO] ✅ Retrouvé : 'My Journey Through French Cinema' (2016) | ancien ID 407691 → nouveau ID 798143
+15:24:46 [INFO] ✅ Retrouvé : 'The Coiling Prankster' (1988) | ancien ID 362475 → nouveau ID 211553
+15:24:46 [WARNING] Introuvable via search : 'Ari Shaffir: Double Negative' (2017)
+15:24:47 [INFO] ✅ Retrouvé : 'Allerleirauh' (2012) | ancien ID 268712 → nouveau ID 1067121
+15:24:47 [INFO] ✅ Retrouvé : 'Sogni e bisogni' (1985) | ancien ID 549048 → nouveau ID 996040
+15:24:47 [INFO] ✅ Retrouvé : 'Wild China' (2008) | ancien ID 141714 → nouveau ID 403924
+15:24:47 [INFO] ✅ Retrouvé : 'Over the Garden Wall' (2013) | ancien ID 409696 → nouveau ID 324467
+15:24:47 [INFO] ✅ Retrouvé : '40: The Temptation of Christ' (2020) | ancien ID 690882 → nouveau ID 664847
+15:24:47 [WARNING] Introuvable via search : 'North Pole: Open For Christmas' (2015)
+15:24:47 [INFO] ✅ Retrouvé : 'Ossan's Love' (2016) | ancien ID 544695 → nouveau ID 617134
+15:24:47 [INFO] ✅ Retrouvé : 'Dragon Ball Z - The Fall of Men' (2015) | ancien ID 368065 → nouveau ID 1593754
+15:24:47 [WARNING] Introuvable via search : 'Gorshochek Kashi' (1984)
+15:24:47 [INFO] ✅ Retrouvé : 'Aschenputtel' (2011) | ancien ID 266568 → nouveau ID 1067100
+15:24:47 [INFO] ✅ Retrouvé : 'The Keepers' (2017) | ancien ID 458298 → nouveau ID 469118
+15:24:47 [INFO] ✅ Retrouvé : 'The Blues' (2003) | ancien ID 409776 → nouveau ID 1116898
+15:24:47 [INFO] ✅ Retrouvé : 'Secrets of the Tower of London' (2013) | ancien ID 363999 → nouveau ID 677218
+15:24:47 [INFO] ✅ Retrouvé : 'Zoom' (2020) | ancien ID 696085 → nouveau ID 723271
+15:24:47 [INFO] ✅ Retrouvé : 'Summer of Mesa' (2020) | ancien ID 691529 → nouveau ID 974746
+15:24:47 [WARNING] Introuvable via search : 'Macross Dynamite Seven' (1997)
+15:24:47 [WARNING] Introuvable via search : 'Boys Playing Leapfrog: Side View' (1887)
+15:24:47 [WARNING] Introuvable via search : '3x3 Eyes: Legend of the Divine Demon' (1995)
+15:24:47 [INFO] ✅ Retrouvé : 'Coyote' (2023) | ancien ID 1136321 → nouveau ID 1094717
+15:24:47 [INFO] ✅ Retrouvé : 'Fire (Pożar)' (2018) | ancien ID 565700 → nouveau ID 1398841
+15:24:47 [WARNING] Introuvable via search : 'Rick and Morty: State of Georgia Vs. Denver Fenton Allen' (2016)
+15:24:47 [INFO] ✅ Retrouvé : 'Doggiewoggiez! Poochiewoochiez!' (2012) | ancien ID 151153 → nouveau ID 97638
+15:24:47 [WARNING] Introuvable via search : 'Last Will of Dr. Mabuse, The (Testament du Dr. Mabuse, Le)' (1933)
+15:24:47 [INFO] ✅ Retrouvé : 'Sticks and Stones: Investigating the Blair Witch' (1999) | ancien ID 266360 → nouveau ID 1494221
+15:24:47 [WARNING] Introuvable via search : 'Jungle de Ikou (Jungre de Ikou)' (1997)
+15:24:47 [WARNING] Introuvable via search : 'Jean-Claude Van Johnson' (2016)
+15:24:47 [WARNING] Introuvable via search : 'Atop the Fourth Wall: The Movie' (2015)
+15:24:47 [INFO] ✅ Retrouvé : 'Die Sterntaler' (2011) | ancien ID 267200 → nouveau ID 1067101
+15:24:47 [WARNING] Introuvable via search : 'Anytime Is Ice Cream Time' (2013)
+15:24:47 [INFO] ✅ Retrouvé : 'RKO Production 601: The Making of 'Kong, the Eighth Wonder of the World'' (2005) | ancien ID 269797 → nouveau ID 950192
+15:24:47 [INFO] ✅ Retrouvé : 'Thanksgiving' (2007) | ancien ID 363909 → nouveau ID 642629
+15:24:47 [WARNING] Introuvable via search : 'Undue Influence' (1996)
+15:24:47 [INFO] ✅ Retrouvé : 'Chernobyl: Zone of Exclusion' (2019) | ancien ID 575116 → nouveau ID 793445
+15:24:47 [INFO] ✅ Retrouvé : 'Best Neighbors' (2014) | ancien ID 691148 → nouveau ID 514337
+15:24:47 [INFO] ✅ Retrouvé : 'Detroit Evolution' (2020) | ancien ID 692242 → nouveau ID 1472513
+15:24:47 [INFO] ✅ Retrouvé : 'Planet Dinosaur 3D' (2013) | ancien ID 684814 → nouveau ID 171222
+15:24:47 [INFO] ✅ Retrouvé : 'Илья Муромец и Соловей Разбойник' (1978) | ancien ID 462636 → nouveau ID 462636
+15:24:47 [WARNING] Introuvable via search : 'Polish Legends: The Dragon' (2015)
+15:24:47 [INFO] ✅ Retrouvé : 'Taken' (2002) | ancien ID 150004 → nouveau ID 11
+15:24:47 [WARNING] Introuvable via search : 'Latin Music USA' (2009)
+15:24:47 [INFO] ✅ Retrouvé : 'Des Kaisers neue Kleider' (2010) | ancien ID 268891 → nouveau ID 1066396
+15:24:47 [INFO] ✅ Retrouvé : 'Der Teufel mit den drei goldenen Haaren' (2013) | ancien ID 279558 → nouveau ID 1067129
+15:24:47 [INFO] ✅ Retrouvé : 'Divorce His - Divorce Hers' (1973) | ancien ID 143360 → nouveau ID 1325847
+15:24:47 [WARNING] Introuvable via search : 'Pretend That You Love Me' (2020)
+15:24:47 [WARNING] Introuvable via search : 'Mikhaylo Lomonosov' (1986)
+15:24:47 [INFO] ✅ Retrouvé : 'Doraemon:貓狗時空傳' (2004) | ancien ID 161535 → nouveau ID 192904
+15:24:47 [INFO] ✅ Retrouvé : 'Yocho' (2018) | ancien ID 566549 → nouveau ID 673718
+15:24:47 [INFO] ✅ Retrouvé : 'Bosko and Honey' (1932) | ancien ID 161552 → nouveau ID 1077060
+15:24:47 [INFO] ✅ Retrouvé : 'Pennies from Heaven' (1978) | ancien ID 143769 → nouveau ID 17450
+15:24:47 [INFO] ✅ Retrouvé : 'Into the Dark: I'm Just F*cking With You' (2019) | ancien ID 576676 → nouveau ID 586044
+15:24:47 [WARNING] Introuvable via search : 'The Men Who Built America' (2012)
+15:24:48 [WARNING] Introuvable via search : 'Li'l Quinquin' (2014)
+15:24:48 [INFO] ✅ Retrouvé : 'Penis Boy' (2015) | ancien ID 269033 → nouveau ID 1454134
+15:24:48 [INFO] ✅ Retrouvé : 'The Cockpit' (1993) | ancien ID 264074 → nouveau ID 612385
+15:24:48 [INFO] ✅ Retrouvé : 'Predators: The Chosen' (2010) | ancien ID 704838 → nouveau ID 1610597
+15:24:48 [WARNING] Introuvable via search : 'The First Annual 'On Cinema' Oscar Special' (2013)
+15:24:48 [WARNING] Introuvable via search : 'The New On Cinema Oscar Special' (2019)
+15:24:48 [WARNING] Introuvable via search : 'Red Hood: The Fallen' (2015)
+15:24:48 [INFO] ✅ Retrouvé : 'The Game' (2014) | ancien ID 409915 → nouveau ID 232679
+15:24:48 [INFO] ✅ Retrouvé : 'Two Knights of Vaudeville' (1915) | ancien ID 409134 → nouveau ID 409134
+15:24:48 [WARNING] Introuvable via search : 'XIII: The Conspiracy' (2008)
+15:24:48 [INFO] ✅ Retrouvé : 'Days of Hope' (1975) | ancien ID 268009 → nouveau ID 296014
+15:24:48 [WARNING] Introuvable via search : 'Alien: Covenant - Prologue: Meet Walter' (2017)
+15:24:48 [WARNING] Introuvable via search : 'Ice Age Continental Drift: Scrat Got Your Tongue' (2012)
+15:24:48 [INFO] ✅ Retrouvé : '63 Up' (2019) | ancien ID 567273 → nouveau ID 698102
+15:24:48 [INFO] ✅ Retrouvé : 'The Collector' (2006) | ancien ID 580897 → nouveau ID 970134
+15:24:48 [WARNING] Introuvable via search : 'Mankink : The Story of All of Us' (2013)
+15:24:48 [WARNING] Introuvable via search : 'The Honourable Woman' (2014)
+15:24:48 [INFO] ✅ Retrouvé : 'Io sono mia' (1977) | ancien ID 369138 → nouveau ID 369138
+15:24:48 [INFO] ✅ Retrouvé : 'A Girl Thing' (2001) | ancien ID 162892 → nouveau ID 37725
+15:24:48 [INFO] ✅ Retrouvé : 'The Kiss' (1882) | ancien ID 567712 → nouveau ID 291590
+15:24:48 [INFO] ✅ Retrouvé : 'Connections' (1978) | ancien ID 367647 → nouveau ID 95955
+15:24:48 [INFO] ✅ Retrouvé : 'El asfalto' (1966) | ancien ID 459629 → nouveau ID 1388282
+15:24:48 [INFO] ✅ Retrouvé : 'Moromete Family: On the Edge of Time' (2018) | ancien ID 569293 → nouveau ID 527465
+15:24:48 [INFO] ✅ Retrouvé : 'Vanished' (1971) | ancien ID 581779 → nouveau ID 329262
+15:24:48 [WARNING] Introuvable via search : 'Occupied - Die Besatzung' (2015)
+15:24:48 [INFO] ✅ Retrouvé : 'The Peter Weyland Files: TED Conference, 2023' (2012) | ancien ID 1172627 → nouveau ID 1471528
+15:24:48 [INFO] ✅ Retrouvé : 'The Blue Angel' (1930) | ancien ID 162806 → nouveau ID 956861
+15:24:48 [INFO] ✅ Retrouvé : 'The Making of Annihilation' (2018) | ancien ID 576500 → nouveau ID 1498660
+15:24:48 [WARNING] Introuvable via search : 'Die Lederstrumpferzählungen' (1969)
+15:24:48 [WARNING] Introuvable via search : 'The Jinx: The Life and Deaths of Robert Durst' (2015)
+15:24:48 [WARNING] Introuvable via search : 'The Second Annual 'On Cinema' Oscar Special' (2014)
+15:24:48 [WARNING] Introuvable via search : 'Auditorium 6' (2017)
+15:24:48 [INFO] ✅ Retrouvé : 'Simon's Cat' (2012) | ancien ID 264356 → nouveau ID 448146
+15:24:48 [WARNING] Introuvable via search : 'BET Awards' (2020)
+15:24:48 [INFO] ✅ Retrouvé : 'Michelangelo: Love and Death' (2017) | ancien ID 471694 → nouveau ID 463901
+15:24:48 [INFO] ✅ Retrouvé : 'Matchless Mulan' (2020) | ancien ID 701956 → nouveau ID 993998
+15:24:48 [INFO] ✅ Retrouvé : 'Kadakh' (2020) | ancien ID 716754 → nouveau ID 560702
+15:24:48 [INFO] ✅ Retrouvé : 'Space Cop' (2016) | ancien ID 280617 → nouveau ID 1486357
+15:24:48 [INFO] ✅ Retrouvé : 'Schneewittchen' (2009) | ancien ID 410774 → nouveau ID 1066138
+15:24:48 [INFO] ✅ Retrouvé : 'Go To Hell' (1999) | ancien ID 270176 → nouveau ID 38863
+15:24:48 [WARNING] Introuvable via search : 'Two Fencers' (1891)
+15:24:48 [INFO] ✅ Retrouvé : 'Women in Love' (2011) | ancien ID 370353 → nouveau ID 66027
+15:24:48 [INFO] ✅ Retrouvé : 'History of the Eagles' (2013) | ancien ID 159140 → nouveau ID 1450320
+15:24:48 [WARNING] Introuvable via search : 'SMART: The Documentary' (2016)
+15:24:48 [INFO] ✅ Retrouvé : 'P.J. Sparkles' (1992) | ancien ID 702752 → nouveau ID 702752
+15:24:48 [WARNING] Introuvable via search : 'Foyle's War - War Games' (2003)
+15:24:48 [WARNING] Introuvable via search : 'ANI: A Parody' (2014)
+15:24:48 [WARNING] Introuvable via search : 'Genius of the Modern World: Marx' (2016)
+15:24:48 [INFO] ✅ Retrouvé : 'Pride and Prejudice' (1995) | ancien ID 164721 → nouveau ID 816205
+15:24:48 [INFO] ✅ Retrouvé : 'Criminal Justice' (2008) | ancien ID 371496 → nouveau ID 259808
+15:24:48 [WARNING] Introuvable via search : 'Sherlok Kholms i doktor Vatson' (2005)
+15:24:48 [WARNING] Introuvable via search : 'Genius of the Modern World: Nietzsche' (2016)
+15:24:48 [WARNING] Introuvable via search : 'Tanner '88' (1988)
+15:24:48 [WARNING] Introuvable via search : 'The Case of: JonBenét Ramsey' (2016)
+15:24:48 [WARNING] Introuvable via search : 'Genius of the Modern World: Freud' (2016)
+15:24:48 [INFO] ✅ Retrouvé : 'Eiken' (2003) | ancien ID 573782 → nouveau ID 668510
+15:24:48 [INFO] ✅ Retrouvé : 'The Nesting' (2015) | ancien ID 373162 → nouveau ID 338520
+15:24:48 [WARNING] Introuvable via search : 'The Mayfair Set' (1999)
+15:24:48 [INFO] ✅ Retrouvé : 'North & South' (2004) | ancien ID 147269 → nouveau ID 280500
+15:24:48 [WARNING] Introuvable via search : 'Crisis in Six Scenes' (2016)
+15:24:48 [WARNING] Introuvable via search : 'After the Night with Valerie' (2019)
+15:24:48 [WARNING] Introuvable via search : 'Power of Nightmares, The: The Rise of the Politics of Fear' (2004)
+15:24:48 [WARNING] Introuvable via search : 'The Casual Vacancy' (2015)
+15:24:48 [INFO] ✅ Retrouvé : 'Brecht' (2019) | ancien ID 578715 → nouveau ID 788453
+15:24:48 [INFO] ✅ Retrouvé : 'Bad Match' (2017) | ancien ID 468554 → nouveau ID 429727
+15:24:48 [WARNING] Introuvable via search : 'The Third Annual 'On Cinema' Oscar Special' (2015)
+15:24:48 [INFO] ✅ Retrouvé : 'Sgt Pepper's Musical Revolution with Howard Goodall' (2017) | ancien ID 474505 → nouveau ID 461002
+15:24:48 [WARNING] Introuvable via search : 'Boris Giuliano: Un poliziotto a Palermo' (2016)
+15:24:49 [INFO] ✅ Retrouvé : 'Chastity Bites' (2013) | ancien ID 166986 → nouveau ID 166981
+15:24:49 [INFO] ✅ Retrouvé : 'Dornröschen' (2009) | ancien ID 303639 → nouveau ID 111556
+15:24:49 [INFO] ✅ Retrouvé : 'The Night Of' (2016) | ancien ID 414399 → nouveau ID 425332
+15:24:49 [INFO] ✅ Retrouvé : 'The Nanny Reunion: A Nosh to Remember' (2004) | ancien ID 470560 → nouveau ID 1212381
+15:24:49 [WARNING] Introuvable via search : 'Charles II: The Power & the Passion' (2003)
+15:24:49 [INFO] ✅ Retrouvé : 'Der Prinz im Bärenfell' (2015) | ancien ID 374322 → nouveau ID 1067168
+15:24:49 [INFO] ✅ Retrouvé : 'Todd McFarlane's Spawn 2' (1998) | ancien ID 318356 → nouveau ID 1548774
+15:24:49 [WARNING] Introuvable via search : 'Justice League: Dawn of Apokolips' (2017)
+15:24:49 [INFO] ✅ Retrouvé : 'Kuroido Goroshi' (2018) | ancien ID 593848 → nouveau ID 566658
+15:24:49 [INFO] ✅ Retrouvé : 'The State Within' (2006) | ancien ID 270271 → nouveau ID 443746
+15:24:49 [INFO] ✅ Retrouvé : 'Maigret's Dead Man' (2016) | ancien ID 414937 → nouveau ID 1549027
+15:24:49 [INFO] ✅ Retrouvé : 'Conspiracy of Silence' (1991) | ancien ID 373357 → nouveau ID 54914
+15:24:49 [INFO] ✅ Retrouvé : 'L'arroseur arrosé' (1897) | ancien ID 414401 → nouveau ID 821532
+15:24:49 [WARNING] Introuvable via search : 'Predator vs. Colonial Marines' (2016)
+15:24:49 [WARNING] Introuvable via search : 'A Lion in the House' (2006)
+15:24:49 [INFO] ✅ Retrouvé : 'Video Game High School' (2013) | ancien ID 467565 → nouveau ID 574831
+15:24:49 [INFO] ✅ Retrouvé : 'London Spy' (2015) | ancien ID 370722 → nouveau ID 203888
+15:24:49 [INFO] ✅ Retrouvé : 'Pick Me Up' (2006) | ancien ID 319315 → nouveau ID 993517
+15:24:49 [INFO] ✅ Retrouvé : 'Childhood's End' (2015) | ancien ID 373977 → nouveau ID 165619
+15:24:49 [INFO] ✅ Retrouvé : 'We Are The Missing' (2020) | ancien ID 715893 → nouveau ID 1476428
+15:24:49 [WARNING] Introuvable via search : 'Rat Movie: Mystery of the Mayan Treasure' (2014)
+15:24:49 [INFO] ✅ Retrouvé : 'Shadow Kill' (2002) | ancien ID 170359 → nouveau ID 255294
+15:24:49 [INFO] ✅ Retrouvé : 'River' (2015) | ancien ID 371504 → nouveau ID 353732
+15:24:49 [INFO] ✅ Retrouvé : 'Wolf Hall' (2015) | ancien ID 320311 → nouveau ID 1386374
+15:24:49 [INFO] ✅ Retrouvé : 'Bagman' (2019) | ancien ID 581232 → nouveau ID 978796
+15:24:49 [WARNING] Introuvable via search : 'Law of the Lawless (Brigada)' (2002)
+15:24:49 [INFO] ✅ Retrouvé : 'So Be It' (2014) | ancien ID 589460 → nouveau ID 315286
+15:24:49 [INFO] ✅ Retrouvé : 'Nussknacker und Mausekönig' (2015) | ancien ID 374323 → nouveau ID 1067161
+15:24:49 [INFO] ✅ Retrouvé : 'Everything is Free' (2017) | ancien ID 473984 → nouveau ID 471689
+15:24:49 [INFO] ✅ Retrouvé : 'Touch of Evil' (2011) | ancien ID 373929 → nouveau ID 1480
+15:24:49 [INFO] ✅ Retrouvé : 'Leaving Neverland' (2019) | ancien ID 586129 → nouveau ID 594404
+15:24:49 [INFO] ✅ Retrouvé : 'L'Homme Machine' (1885) | ancien ID 585297 → nouveau ID 563538
+15:24:49 [WARNING] Introuvable via search : 'The Victoria's Secret Fashion Show 2001' (2001)
+15:24:49 [INFO] ✅ Retrouvé : 'The Take' (2009) | ancien ID 172577 → nouveau ID 108200
+15:24:49 [INFO] ✅ Retrouvé : 'Fearless' (2004) | ancien ID 718467 → nouveau ID 164288
+15:24:49 [INFO] ✅ Retrouvé : 'Erica' (2019) | ancien ID 730788 → nouveau ID 389614
+15:24:49 [WARNING] Introuvable via search : 'Raising Kratos' (2019)
+15:24:50 [INFO] ✅ Retrouvé : 'The Wednesday' (2016) | ancien ID 468123 → nouveau ID 468376
+15:24:50 [INFO] ✅ Retrouvé : 'The Legend of Cocaine Island' (2019) | ancien ID 589023 → nouveau ID 509903
+15:24:50 [INFO] ✅ Retrouvé : 'My Brother Jordan' (2020) | ancien ID 731932 → nouveau ID 1637225
+15:24:50 [INFO] ✅ Retrouvé : 'Die Salzprinzessin' (2015) | ancien ID 374247 → nouveau ID 1067159
+15:24:50 [INFO] ✅ Retrouvé : 'And Then There Were None' (2015) | ancien ID 371758 → nouveau ID 4883
+15:24:50 [INFO] ✅ Retrouvé : 'Prinzessin Maleen' (2015) | ancien ID 374319 → nouveau ID 1067164
+15:24:50 [INFO] ✅ Retrouvé : 'Framing Britney Spears' (2021) | ancien ID 795446 → nouveau ID 801528
+15:24:50 [INFO] ✅ Retrouvé : 'The Peter Weyland Files: Happy Birthday, David' (2012) | ancien ID 1172634 → nouveau ID 1471541
+15:24:50 [WARNING] Introuvable via search : 'Helter Skelter: An American Myth' (2020)
+15:24:50 [WARNING] Introuvable via search : 'Green Legend Ran' (1992)
+15:24:50 [INFO] ✅ Retrouvé : '1964: Brazil Between Weapons and Books' (2019) | ancien ID 592251 → nouveau ID 847155
+15:24:50 [INFO] ✅ Retrouvé : 'The 3 Rs' (2011) | ancien ID 162864 → nouveau ID 707043
+15:24:50 [WARNING] Introuvable via search : 'Sinatra: All or Nothing at All' (2015)
+15:24:50 [INFO] ✅ Retrouvé : 'Hellstorm' (2015) | ancien ID 949778 → nouveau ID 1305327
+15:24:50 [WARNING] Introuvable via search : 'The Devil's Whore' (2008)
+15:24:50 [INFO] ✅ Retrouvé : 'The Queen of Spades' (1916) | ancien ID 174588 → nouveau ID 158718
+15:24:50 [INFO] ✅ Retrouvé : 'To the Ends of the Earth' (2005) | ancien ID 370014 → nouveau ID 39943
+15:24:50 [WARNING] Introuvable via search : 'Dying is Easy' (2021)
+15:24:50 [INFO] ✅ Retrouvé : 'The Donkey King' (2020) | ancien ID 791905 → nouveau ID 557132
+15:24:50 [INFO] ✅ Retrouvé : 'Sync' (2014) | ancien ID 171645 → nouveau ID 444639
+15:24:50 [WARNING] Introuvable via search : 'Africa: The Greatest Show On Earth' (2013)
+15:24:50 [INFO] ✅ Retrouvé : 'Not Alone in Here' (2020) | ancien ID 705354 → nouveau ID 1247420
+15:24:50 [INFO] ✅ Retrouvé : 'A Mouse Tale' (2015) | ancien ID 322147 → nouveau ID 227731
+15:24:50 [INFO] ✅ Retrouvé : 'Our Deal' (2011) | ancien ID 414278 → nouveau ID 406908
+15:24:50 [INFO] ✅ Retrouvé : 'Kingsman: The Secret Service Revealed' (2015) | ancien ID 796115 → nouveau ID 1496513
+15:24:50 [INFO] ✅ Retrouvé : 'Cigarette Girl of Mosselprom, The (Papirosnitsa ot Mosselproma)' (1924) | ancien ID 172538 → nouveau ID 188344
+15:24:50 [INFO] ✅ Retrouvé : 'Pole to Pole' (1992) | ancien ID 167774 → nouveau ID 671582
+15:24:50 [INFO] ✅ Retrouvé : 'Yoga arquitetura da paz' (2017) | ancien ID 480705 → nouveau ID 478659
+15:24:50 [INFO] ✅ Retrouvé : 'The Nativity' (2010) | ancien ID 720295 → nouveau ID 293380
+15:24:50 [WARNING] Introuvable via search : 'A che punto é la notte' (1994)
+15:24:50 [WARNING] Introuvable via search : 'The Trail to Oregon!' (2015)
+15:24:50 [WARNING] Introuvable via search : 'Victoria's Secret Fashion  Show 2017' (2017)
+15:24:50 [INFO] ✅ Retrouvé : 'Polish Legends. Twardowsky 2.0' (2016) | ancien ID 416763 → nouveau ID 1483037
+15:24:50 [WARNING] Introuvable via search : 'Sherlock: The Empty Hearse' (2013)
+15:24:50 [INFO] ✅ Retrouvé : 'Madelines' (2022) | ancien ID 957115 → nouveau ID 911348
+15:24:50 [INFO] ✅ Retrouvé : 'PS5 - The Future of Gaming' (2020) | ancien ID 725924 → nouveau ID 792787
+15:24:50 [WARNING] Introuvable via search : 'At the Suicide of the Last Jew in the World in the Last Cinema in the World' (2007)
+15:24:50 [WARNING] Introuvable via search : 'Thief and the Cobbler, The (a.k.a. Arabian Knight)' (1995)
+15:24:50 [INFO] ✅ Retrouvé : 'Bag of Bones' (2011) | ancien ID 168210 → nouveau ID 512411
+15:24:50 [INFO] ✅ Retrouvé : 'Making 'Badlands'' (2013) | ancien ID 594750 → nouveau ID 657248
+15:24:50 [WARNING] Introuvable via search : 'Victoria's Secret Fashion Show 2016' (2016)
+15:24:50 [INFO] ✅ Retrouvé : 'Megalopolis Express Way Trial 3' (1991) | ancien ID 421602 → nouveau ID 108654
+15:24:50 [INFO] ✅ Retrouvé : 'The Peter Weyland Files: Quiet Eye, Elizabeth Shaw' (2012) | ancien ID 1173102 → nouveau ID 1466457
+15:24:50 [WARNING] Introuvable via search : '7 Days Out' (2018)
+15:24:50 [INFO] ✅ Retrouvé : 'The Long Hot Summer' (1985) | ancien ID 173899 → nouveau ID 40085
+15:24:50 [INFO] ✅ Retrouvé : 'A Christmas Tail' (2014) | ancien ID 489298 → nouveau ID 369607
+15:24:50 [INFO] ✅ Retrouvé : 'Planet Earth II' (2016) | ancien ID 420714 → nouveau ID 596683
+15:24:50 [INFO] ✅ Retrouvé : 'Murder on the Orient Express' (2010) | ancien ID 325895 → nouveau ID 1633192
+15:24:50 [WARNING] Introuvable via search : 'Pee-Nut' (2002)
+15:24:50 [WARNING] Introuvable via search : 'Psych: The Musical' (2013)
+15:24:51 [INFO] ✅ Retrouvé : 'The Charlie Chaplin Festival' (1941) | ancien ID 374634 → nouveau ID 593804
+15:24:51 [INFO] ✅ Retrouvé : 'Star Trek: Renegades' (2015) | ancien ID 329637 → nouveau ID 1450305
+15:24:51 [INFO] ✅ Retrouvé : 'Deep Ocean: Lights in the Abyss' (2016) | ancien ID 484874 → nouveau ID 1525550
+15:24:51 [INFO] ✅ Retrouvé : 'Weekend of a Champion' (2013) | ancien ID 327016 → nouveau ID 196253
+15:24:51 [WARNING] Introuvable via search : 'Act Da Fool' (2010)
+15:24:51 [INFO] ✅ Retrouvé : 'Absolute Proof' (2021) | ancien ID 793666 → nouveau ID 1437084
+15:24:51 [INFO] ✅ Retrouvé : 'The Hidden Kingdoms of China' (2020) | ancien ID 737618 → nouveau ID 941407
+15:24:51 [INFO] ✅ Retrouvé : 'Power/Rangers' (2015) | ancien ID 327029 → nouveau ID 656723
+15:24:51 [INFO] ✅ Retrouvé : 'Putin: The New Empire' (2017) | ancien ID 806947 → nouveau ID 430317
+15:24:51 [INFO] ✅ Retrouvé : 'Generation War' (2013) | ancien ID 178446 → nouveau ID 352547
+15:24:51 [WARNING] Introuvable via search : 'Polish Legends: Operacja Bazyliszek' (2016)
+15:24:51 [WARNING] Introuvable via search : 'Guardians of the Galaxy: Inferno' (2017)
+15:24:51 [INFO] ✅ Retrouvé : 'The Master and Margarita' (2005) | ancien ID 51129 → nouveau ID 1596253
+15:24:51 [INFO] ✅ Retrouvé : 'Fantômas: Juve Against Fantômas' (1913) | ancien ID 56511 → nouveau ID 319287
+15:24:51 [INFO] ✅ Retrouvé : 'Planet Earth: A Celebration' (2020) | ancien ID 732277 → nouveau ID 823800
+15:24:51 [WARNING] Introuvable via search : 'Biting Elbows: Bad Motherfucker' (2013)
+15:24:51 [INFO] ✅ Retrouvé : 'X: Past Is Present' (2015) | ancien ID 376681 → nouveau ID 298714
+15:24:51 [INFO] ✅ Retrouvé : 'Expiration Date' (2014) | ancien ID 737785 → nouveau ID 1488299
+15:24:51 [WARNING] Introuvable via search : 'Dark Heart AKA Wagstaffe' (2016)
+15:24:51 [INFO] ✅ Retrouvé : 'Fantômas: The False Magistrate' (1914) | ancien ID 56515 → nouveau ID 319287
+15:24:51 [WARNING] Introuvable via search : 'I Love You, Now Die: The Commonwealth Vs. Michelle Carter' (2019)
+15:24:51 [INFO] ✅ Retrouvé : 'Godless' (2017) | ancien ID 488654 → nouveau ID 949785
+15:24:51 [INFO] ✅ Retrouvé : 'Busco Novio Para Mi Mujer' (2016) | ancien ID 379951 → nouveau ID 345912
+15:24:51 [INFO] ✅ Retrouvé : 'Fantomas (Fantômas - À l'ombre de la guillotine)' (1913) | ancien ID 56508 → nouveau ID 319287
+15:24:51 [INFO] ✅ Retrouvé : 'Star Wars: Origins' (2019) | ancien ID 936456 → nouveau ID 128295
+15:24:51 [INFO] ✅ Retrouvé : 'The Moving Finger' (1985) | ancien ID 180836 → nouveau ID 93945
+15:24:51 [INFO] ✅ Retrouvé : 'War and Peace' (2016) | ancien ID 378779 → nouveau ID 388875
+15:24:51 [WARNING] Introuvable via search : 'Who killed the Neanderthal? - Extended' (2017)
+15:24:51 [INFO] ✅ Retrouvé : 'Residue' (2015) | ancien ID 331501 → nouveau ID 716786
+15:24:51 [INFO] ✅ Retrouvé : 'House of Cards' (1990) | ancien ID 179051 → nouveau ID 47095
+15:24:51 [INFO] ✅ Retrouvé : 'Unraveling the Mystery: A Big Bang Farewell' (2019) | ancien ID 602524 → nouveau ID 1531312
+15:24:51 [WARNING] Introuvable via search : 'The Nazis: A Warning from History' (1997)
+15:24:51 [INFO] ✅ Retrouvé : 'The Day of the Living Dead' (2020) | ancien ID 793095 → nouveau ID 22616
+15:24:51 [INFO] ✅ Retrouvé : 'Our Time' (2022) | ancien ID 969086 → nouveau ID 1026219
+15:24:51 [WARNING] Introuvable via search : 'A Very Potter Senior Year' (2013)
+15:24:51 [WARNING] Introuvable via search : 'Louis Theroux: By Reason of Insanity' (2015)
+15:24:51 [WARNING] Introuvable via search : 'AFI Life Achievement Award: A Tribute to Al Pacino' (2007)
+15:24:51 [WARNING] Introuvable via search : 'Werewolf Women of the S.S.' (2007)
+15:24:51 [WARNING] Introuvable via search : 'Russian Hackers: The Beginning' (2022)
+15:24:51 [INFO] ✅ Retrouvé : 'Elvis Presley: The Searcher' (2018) | ancien ID 607517 → nouveau ID 761061
+15:24:51 [WARNING] Introuvable via search : 'Great Planet Evil-Destroyer Dangaio' (1987)
+15:24:51 [INFO] ✅ Retrouvé : 'Cool Cat Fights Coronavirus' (2021) | ancien ID 813756 → nouveau ID 1182544
+15:24:51 [INFO] ✅ Retrouvé : 'Bad Ben' (2016) | ancien ID 424643 → nouveau ID 881502
+15:24:51 [WARNING] Introuvable via search : 'Hearts of Kyber' (2017)
+15:24:51 [INFO] ✅ Retrouvé : 'Dark' (2017) | ancien ID 736024 → nouveau ID 155
+15:24:52 [INFO] ✅ Retrouvé : 'Journey to the Center of the Earth' (1999) | ancien ID 53875 → nouveau ID 88751
+15:24:52 [WARNING] Introuvable via search : 'Downton Abbey: Christmas Special 2015' (2015)
+15:24:52 [INFO] ✅ Retrouvé : 'Where Are You' (2021) | ancien ID 815144 → nouveau ID 394148
+15:24:52 [INFO] ✅ Retrouvé : 'Baelin's Route: An Epic NPC Man Adventure' (2021) | ancien ID 744247 → nouveau ID 1189102
+15:24:52 [WARNING] Introuvable via search : 'A History of Horror with Mark Gatiss' (2010)
+15:24:52 [WARNING] Introuvable via search : 'Code of a Killer' (2015)
+15:24:52 [WARNING] Introuvable via search : 'Mushishi: The Shadow That Devours the Sun' (2014)
+15:24:52 [INFO] ✅ Retrouvé : 'Rough Riders' (1997) | ancien ID 51768 → nouveau ID 23581
+15:24:52 [INFO] ✅ Retrouvé : 'The Princess and the Bodyguard' (2023) | ancien ID 958637 → nouveau ID 950905
+15:24:52 [WARNING] Introuvable via search : 'LIFE BEYOND: Chapter 2. The Museum of Alien Life' (2020)
+15:24:52 [INFO] ✅ Retrouvé : 'Death Note Rewrite: Genshisuru Kami' (2007) | ancien ID 333040 → nouveau ID 51482
+15:24:52 [INFO] ✅ Retrouvé : 'The Keepers' (1991) | ancien ID 814415 → nouveau ID 484338
+15:24:52 [INFO] ✅ Retrouvé : 'Out on a Limb' (1987) | ancien ID 180152 → nouveau ID 114726
+15:24:52 [WARNING] Introuvable via search : 'Spies of Warsaw' (2013)
+15:24:52 [INFO] ✅ Retrouvé : 'Save Ralph' (2021) | ancien ID 810877 → nouveau ID 1495151
+15:24:52 [INFO] ✅ Retrouvé : 'Puss in Boots' (2011) | ancien ID 58423 → nouveau ID 417859
+15:24:52 [INFO] ✅ Retrouvé : 'Master Class: Ridley Scott' (2017) | ancien ID 496075 → nouveau ID 1524129
+15:24:52 [INFO] ✅ Retrouvé : 'Band of Brothers' (2001) | ancien ID 331214 → nouveau ID 1335757
+15:24:52 [INFO] ✅ Retrouvé : 'Hotel Room' (1993) | ancien ID 60199 → nouveau ID 1238920
+15:24:52 [INFO] ✅ Retrouvé : 'The Cave' (2019) | ancien ID 621729 → nouveau ID 621729
+15:24:52 [INFO] ✅ Retrouvé : 'Smiling Woman' (2019) | ancien ID 730639 → nouveau ID 858960
+15:24:52 [INFO] ✅ Retrouvé : 'Sidetracked' (2008) | ancien ID 487050 → nouveau ID 841306
+15:24:52 [INFO] ✅ Retrouvé : 'Dumpling Brothers' (2013) | ancien ID 333953 → nouveau ID 314224
+15:24:52 [INFO] ✅ Retrouvé : 'Blasted' (2022) | ancien ID 982987 → nouveau ID 660267
+15:24:52 [INFO] ✅ Retrouvé : 'Fallen III: The Destiny' (2007) | ancien ID 613449 → nouveau ID 1441862
+15:24:52 [WARNING] Introuvable via search : 'Neben der Spur - Amnesie' (2016)
+15:24:52 [INFO] ✅ Retrouvé : 'Lifeline' (2002) | ancien ID 425764 → nouveau ID 1492905
+15:24:52 [INFO] ✅ Retrouvé : 'Payback: Straight Up' (2006) | ancien ID 421550 → nouveau ID 2112
+15:24:52 [WARNING] Introuvable via search : 'Child Bringing Bouquet to Woman' (1887)
+15:24:52 [INFO] ✅ Retrouvé : 'Survive' (2022) | ancien ID 970060 → nouveau ID 1132079
+15:24:52 [INFO] ✅ Retrouvé : 'Civilisation' (1969) | ancien ID 328303 → nouveau ID 341338
+15:24:52 [WARNING] Introuvable via search : 'Tiffany Haddish Presents: They Ready' (2019)
+15:24:52 [INFO] ✅ Retrouvé : 'Scream: Halloween Special' (2016) | ancien ID 422112 → nouveau ID 1180731
+15:24:52 [INFO] ✅ Retrouvé : 'Introspectum Motel' (2021) | ancien ID 830073 → nouveau ID 1563429
+15:24:52 [INFO] ✅ Retrouvé : 'Secret Weapons' (1972) | ancien ID 54726 → nouveau ID 5684
+15:24:52 [INFO] ✅ Retrouvé : 'World on a Wire (Welt am Draht)' (1973) | ancien ID 53094 → nouveau ID 394385
+15:24:52 [WARNING] Introuvable via search : 'Parade's End' (2012)
+15:24:52 [INFO] ✅ Retrouvé : 'Black Easter' (2021) | ancien ID 823837 → nouveau ID 1201683
+15:24:52 [INFO] ✅ Retrouvé : 'The Trial' (2017) | ancien ID 495280 → nouveau ID 440202
+15:24:52 [WARNING] Introuvable via search : 'Self-Portrait As A Coffee Pot' (2022)
+15:24:52 [INFO] ✅ Retrouvé : 'Alternate Endings: Six New Ways to Die in America' (2019) | ancien ID 619907 → nouveau ID 619907
+15:24:53 [INFO] ✅ Retrouvé : 'WWII IN HD' (2009) | ancien ID 56771 → nouveau ID 334668
+15:24:53 [INFO] ✅ Retrouvé : 'Benjamin Franklin' (2022) | ancien ID 958198 → nouveau ID 462045
+15:24:53 [INFO] ✅ Retrouvé : 'Ghost in the Shell Arise - Border 5: Pyrophoric Cult' (2015) | ancien ID 381519 → nouveau ID 1157408
+15:24:53 [INFO] ✅ Retrouvé : 'Liquidation' (2007) | ancien ID 377136 → nouveau ID 618664
+15:24:53 [INFO] ✅ Retrouvé : 'Rat Movie 2: The Movie' (2015) | ancien ID 950025 → nouveau ID 1322218
+15:24:53 [WARNING] Introuvable via search : 'Furries the Movie' (2020)
+15:24:53 [INFO] ✅ Retrouvé : 'Cave Rescue' (2022) | ancien ID 1008469 → nouveau ID 547090
+15:24:53 [INFO] ✅ Retrouvé : 'Borat: VHS Cassette' (2021) | ancien ID 833224 → nouveau ID 818789
+15:24:53 [INFO] ✅ Retrouvé : 'Madagascar' (2011) | ancien ID 62403 → nouveau ID 25472
+15:24:53 [INFO] ✅ Retrouvé : 'Blue Guitar' (2016) | ancien ID 379462 → nouveau ID 425014
+15:24:53 [WARNING] Introuvable via search : 'ONEDREAMRUSH' (2010)
+15:24:53 [WARNING] Introuvable via search : 'David Lynch Cooks Quinoa' (2007)
+15:24:53 [INFO] ✅ Retrouvé : 'The Bellboy and the Playgirls' (1962) | ancien ID 187665 → nouveau ID 989207
+15:24:53 [WARNING] Introuvable via search : 'Maigret in Montmartre' (2017)
+15:24:53 [INFO] ✅ Retrouvé : 'Teenage Mutant Ninja Turtles Rise of the Turtles' (2012) | ancien ID 186037 → nouveau ID 765172
+15:24:53 [INFO] ✅ Retrouvé : 'The Pacific' (2010) | ancien ID 189197 → nouveau ID 1152156
+15:24:53 [INFO] ✅ Retrouvé : 'Quiz' (2020) | ancien ID 754083 → nouveau ID 662240
+15:24:53 [WARNING] Introuvable via search : 'A.D. The Bible Continues' (2015)
+15:24:53 [INFO] ✅ Retrouvé : 'Aurora' (2015) | ancien ID 335676 → nouveau ID 359926
+15:24:53 [INFO] ✅ Retrouvé : 'Coffer' (2014) | ancien ID 381419 → nouveau ID 58
+15:24:53 [WARNING] Introuvable via search : 'Monkey Planet' (2014)
+15:24:53 [WARNING] Introuvable via search : 'Polish Legends: Jaga' (2016)
+15:24:53 [WARNING] Introuvable via search : 'Athlete Swinging a Pick' (1880)
+15:24:53 [WARNING] Introuvable via search : 'Electra Woman and Dyna Girl' (2016)
+15:24:53 [INFO] ✅ Retrouvé : 'See You Soon' (2014) | ancien ID 380721 → nouveau ID 610781
+15:24:53 [WARNING] Introuvable via search : 'Pokemon: The Arceus Chronicles (Movie Version)' (2022)
+15:24:53 [INFO] ✅ Retrouvé : 'Come Together' (2016) | ancien ID 428074 → nouveau ID 557125
+15:24:53 [WARNING] Introuvable via search : 'All Watched Over by Machines of Loving Grace' (2011)
+15:24:53 [WARNING] Introuvable via search : 'Texas Rising' (2015)
+15:24:53 [WARNING] Introuvable via search : 'Spongebob Squarepants 4D Attraction: The Great Jelly Rescue' (2013)
+15:24:53 [INFO] ✅ Retrouvé : 'Attic Panic' (2015) | ancien ID 381294 → nouveau ID 906209
+15:24:53 [WARNING] Introuvable via search : 'Making a Murderer' (2015)
+15:24:53 [WARNING] Introuvable via search : 'Bitva za Moskvu' (1985)
+15:24:53 [INFO] ✅ Retrouvé : 'Crystal's Shadow' (2019) | ancien ID 620058 → nouveau ID 458107
+15:24:53 [WARNING] Introuvable via search : 'Chainsaw Maid 2' (2010)
+15:24:53 [INFO] ✅ Retrouvé : 'Far More' (2021) | ancien ID 833915 → nouveau ID 1404388
+15:24:53 [INFO] ✅ Retrouvé : 'The Division: Agent Origins' (2016) | ancien ID 382088 → nouveau ID 1217239
+15:24:53 [WARNING] Introuvable via search : 'Sallie Gardner at a Gallop' (1878)
+15:24:53 [WARNING] Introuvable via search : 'The Secret Life of Marilyn Monroe' (2015)
+15:24:53 [WARNING] Introuvable via search : 'BoJack Horseman Christmas Special: Sabrina's Christmas Wish' (2014)
+15:24:53 [INFO] ✅ Retrouvé : 'Meltdown: Three Mile Island' (2022) | ancien ID 972022 → nouveau ID 1074933
+15:24:53 [INFO] ✅ Retrouvé : 'Superman II: The Richard Donner Cut' (2006) | ancien ID 429486 → nouveau ID 624479
+15:24:53 [INFO] ✅ Retrouvé : 'Moment of Contact' (2022) | ancien ID 1008573 → nouveau ID 957864
+15:24:53 [INFO] ✅ Retrouvé : 'Otakus in Love' (2004) | ancien ID 62653 → nouveau ID 19044
+15:24:53 [INFO] ✅ Retrouvé : 'Mulholland Dr.' (1999) | ancien ID 185789 → nouveau ID 1018
+15:24:53 [INFO] ✅ Retrouvé : 'Pictured' (2014) | ancien ID 381423 → nouveau ID 1611654
+15:24:53 [WARNING] Introuvable via search : 'The Enfield Haunting' (2015)
+15:24:53 [WARNING] Introuvable via search : 'The Night Manager' (2016)
+15:24:53 [WARNING] Introuvable via search : 'The Trap: What Happened to Our Dream of Freedom' (2007)
+15:24:53 [WARNING] Introuvable via search : 'The Dragon Dentist: Tengumushi' (2017)
+15:24:53 [WARNING] Introuvable via search : 'Behind the Fallout' (2018)
+15:24:53 [INFO] ✅ Retrouvé : 'BALLiSTIC' (2018) | ancien ID 497256 → nouveau ID 1243741
+15:24:53 [WARNING] Introuvable via search : 'Detectorists Special' (2022)
+15:24:53 [INFO] ✅ Retrouvé : 'Firefly' (2002) | ancien ID 756498 → nouveau ID 311253
+15:24:53 [WARNING] Introuvable via search : 'Suburban Knights' (2011)
+15:24:53 [INFO] ✅ Retrouvé : 'Afro Samurai' (2007) | ancien ID 62931 → nouveau ID 515056
+15:24:53 [INFO] ✅ Retrouvé : 'Kitty Love: An Homage to Cats' (2021) | ancien ID 835263 → nouveau ID 746712
+15:24:53 [INFO] ✅ Retrouvé : 'The Mummy of Tutankhamun' (2016) | ancien ID 497362 → nouveau ID 497491
+15:24:54 [INFO] ✅ Retrouvé : 'ABE' (2013) | ancien ID 190250 → nouveau ID 1478317
+15:24:54 [INFO] ✅ Retrouvé : 'Dark Angel' (2016) | ancien ID 748121 → nouveau ID 19384
+15:24:54 [WARNING] Introuvable via search : 'Semi-Nude Woman Hopping on Left Foot' (1887)
+15:24:54 [WARNING] Introuvable via search : 'C600: Infiltration' (2021)
+15:24:54 [INFO] ✅ Retrouvé : 'The Rockford Files' (2010) | ancien ID 496125 → nouveau ID 884072
+15:24:54 [INFO] ✅ Retrouvé : 'Windfall' (2010) | ancien ID 62582 → nouveau ID 62583
+15:24:54 [INFO] ✅ Retrouvé : 'Not So Fast' (2014) | ancien ID 381420 → nouveau ID 1160740
+15:24:54 [WARNING] Introuvable via search : 'Saber Marionette R' (1995)
+15:24:54 [INFO] ✅ Retrouvé : 'Necktie' (2013) | ancien ID 1012230 → nouveau ID 745584
+15:24:54 [WARNING] Introuvable via search : 'Star Wars Downunder' (2013)
+15:24:54 [INFO] ✅ Retrouvé : 'Secrets of Scotland Yard' (2013) | ancien ID 332218 → nouveau ID 188732
+15:24:54 [INFO] ✅ Retrouvé : 'How Not to Make a Movie' (2013) | ancien ID 190513 → nouveau ID 1609966
+15:24:54 [INFO] ✅ Retrouvé : 'The Wiggles Movie' (1997) | ancien ID 74079 → nouveau ID 40750
+15:24:54 [WARNING] Introuvable via search : 'C600' (2020)
+15:24:54 [INFO] ✅ Retrouvé : 'Leonardo: The Man Who Saved Science' (2017) | ancien ID 836665 → nouveau ID 1508148
+15:24:54 [INFO] ✅ Retrouvé : 'Choice of Purpose' (1975) | ancien ID 336549 → nouveau ID 1500365
+15:24:54 [WARNING] Introuvable via search : 'Space Odyssey: Voyage to the Planets' (2004)
+15:24:54 [INFO] ✅ Retrouvé : 'The Family' (2019) | ancien ID 622077 → nouveau ID 572151
+15:24:54 [INFO] ✅ Retrouvé : 'The Foundry' (2007) | ancien ID 382786 → nouveau ID 1587579
+15:24:54 [INFO] ✅ Retrouvé : 'Kobiety mafii' (2018) | ancien ID 508327 → nouveau ID 498214
+15:24:54 [WARNING] Introuvable via search : 'The Magic Rosette' (1878)
+15:24:54 [WARNING] Introuvable via search : 'A Blaster In The Right Hands: A Star Wars Story' (2021)
+15:24:54 [WARNING] Introuvable via search : 'The Infinite Worlds of H.G. Wells' (2001)
+15:24:54 [INFO] ✅ Retrouvé : 'Buffalo Running' (1883) | ancien ID 426903 → nouveau ID 1122858
+15:24:54 [INFO] ✅ Retrouvé : 'Fishing with John' (1991) | ancien ID 744624 → nouveau ID 21378
+15:24:54 [WARNING] Introuvable via search : 'American Experience: Chicago: City of the Century (1): Mudhole to Metropolis' (2003)
+15:24:54 [INFO] ✅ Retrouvé : 'Cleopatra' (1999) | ancien ID 64679 → nouveau ID 310609
+15:24:54 [WARNING] Introuvable via search : 'Neo Yokio: Pink Christmas' (2018)
+15:24:54 [INFO] ✅ Retrouvé : 'Happy Family 2' (2021) | ancien ID 851112 → nouveau ID 823609
+15:24:54 [WARNING] Introuvable via search : 'The Vote: Part 1' (2020)
+15:24:54 [WARNING] Introuvable via search : 'he takes the pills' (2015)
+15:24:54 [INFO] ✅ Retrouvé : 'Le passe-muraille' (2016) | ancien ID 430514 → nouveau ID 430500
+15:24:54 [WARNING] Introuvable via search : 'Predator: Dark Ages' (2015)
+15:24:54 [INFO] ✅ Retrouvé : 'Firebringer' (2017) | ancien ID 430602 → nouveau ID 328032
+15:24:54 [INFO] ✅ Retrouvé : 'New York: A Documentary Film' (1999) | ancien ID 194668 → nouveau ID 919289
+15:24:54 [WARNING] Introuvable via search : 'American Experience: Chicago: City of the Century (2): The Revolution Has Begun' (2003)
+15:24:54 [WARNING] Introuvable via search : 'The Honeymoon Stand-Up Special' (2018)
+15:24:54 [WARNING] Introuvable via search : 'The Vote: Part 2' (2020)
+15:24:54 [INFO] ✅ Retrouvé : 'The Dark Redemption' (1999) | ancien ID 760506 → nouveau ID 1046096
+15:24:54 [INFO] ✅ Retrouvé : 'War of the Worlds' (2021) | ancien ID 853673 → nouveau ID 74
+15:24:54 [INFO] ✅ Retrouvé : 'Snowbird' (2016) | ancien ID 381789 → nouveau ID 1401770
+15:24:54 [WARNING] Introuvable via search : 'The Secret of Crickley Hall' (2012)
+15:24:54 [INFO] ✅ Retrouvé : 'Vice Versa: Chyna' (2021) | ancien ID 842496 → nouveau ID 857351
+15:24:54 [WARNING] Introuvable via search : 'The Killing Season' (2016)
+15:24:54 [INFO] ✅ Retrouvé : 'Blackout' (2012) | ancien ID 642088 → nouveau ID 334584
+15:24:54 [WARNING] Introuvable via search : 'Saturday Night Live: 40th Anniversary Special' (2015)
+15:24:54 [INFO] ✅ Retrouvé : 'The Story of Maths' (2008) | ancien ID 63383 → nouveau ID 276477
+15:24:54 [INFO] ✅ Retrouvé : 'Pferd und Reiter Springen Über ein Hindernis' (1888) | ancien ID 335765 → nouveau ID 1573279
+15:24:54 [INFO] ✅ Retrouvé : 'Planet Earth' (2006) | ancien ID 192040 → nouveau ID 16067
+15:24:54 [INFO] ✅ Retrouvé : 'Area 88' (1985) | ancien ID 198993 → nouveau ID 1556391
+15:24:54 [WARNING] Introuvable via search : 'Muppet*Vision 3-D' (1991)
+15:24:54 [INFO] ✅ Retrouvé : 'Undone' (2019) | ancien ID 633190 → nouveau ID 879137
+15:24:54 [WARNING] Introuvable via search : 'Adventure Time: Islands' (2017)
+15:24:54 [INFO] ✅ Retrouvé : 'Tag' (2015) | ancien ID 338850 → nouveau ID 438568
+15:24:55 [INFO] ✅ Retrouvé : 'Prinz Himmelblau und Fee Lupine' (2016) | ancien ID 431786 → nouveau ID 1067171
+15:24:55 [WARNING] Introuvable via search : 'Welcome to Hoxford : The fan film' (2011)
+15:24:55 [INFO] ✅ Retrouvé : 'Meteor' (2009) | ancien ID 65990 → nouveau ID 892170
+15:24:55 [INFO] ✅ Retrouvé : 'Todd McFarlane's Spawn' (1997) | ancien ID 65639 → nouveau ID 1548774
+15:24:55 [WARNING] Introuvable via search : 'Stephen Fry: The Secret Life of the Manic Depressive' (2006)
+15:24:55 [INFO] ✅ Retrouvé : 'In This Corner (and Other Corners) of the World' (2019) | ancien ID 635838 → nouveau ID 378108
+15:24:55 [INFO] ✅ Retrouvé : 'What Men Talk About: Simple Pleasures' (2023) | ancien ID 1058029 → nouveau ID 1002444
+15:24:55 [INFO] ✅ Retrouvé : 'Doctor Who: The Return Of Doctor Mysterio' (2016) | ancien ID 430951 → nouveau ID 646767
+15:24:55 [WARNING] Introuvable via search : 'The Turtle's Head' (2014)
+15:24:55 [INFO] ✅ Retrouvé : 'Invasion!' (2016) | ancien ID 387413 → nouveau ID 980350
+15:24:55 [WARNING] Introuvable via search : 'Big Time Christmas' (2010)
+15:24:55 [INFO] ✅ Retrouvé : 'Croft' (2013) | ancien ID 846916 → nouveau ID 1996
+15:24:55 [INFO] ✅ Retrouvé : 'Je vous aime' (1891) | ancien ID 336380 → nouveau ID 41814
+15:24:55 [INFO] ✅ Retrouvé : 'Wild Wild Country' (2018) | ancien ID 510882 → nouveau ID 482981
+15:24:55 [WARNING] Introuvable via search : 'Inside the Third Reich' (1982)
+15:24:55 [INFO] ✅ Retrouvé : 'True Women' (1997) | ancien ID 77197 → nouveau ID 1536100
+15:24:55 [WARNING] Introuvable via search : 'Pingu's The Thing' (2012)
+15:24:55 [WARNING] Introuvable via search : 'Chinna Gounder' (1992)
+15:24:55 [WARNING] Introuvable via search : 'Battlestar Galactica: The Lowdown' (2003)
+15:24:55 [WARNING] Introuvable via search : 'Evil Genius: The True Story of America's Most Diabolical Bank Heist' (2018)
+15:24:55 [INFO] ✅ Retrouvé : 'The Outsiders' (1990) | ancien ID 758936 → nouveau ID 227
+15:24:55 [INFO] ✅ Retrouvé : 'Saving Star Wars' (2004) | ancien ID 432052 → nouveau ID 1166659
+15:24:55 [WARNING] Introuvable via search : 'For Whom the Bell Tolls: Part 1' (1959)
+15:24:55 [INFO] ✅ Retrouvé : 'The Essence of Combat: Making ‘Black Hawk Down’' (2003) | ancien ID 756688 → nouveau ID 1357289
+15:24:55 [INFO] ✅ Retrouvé : 'The Day of the Badman' (1958) | ancien ID 200120 → nouveau ID 445341
+15:24:55 [WARNING] Introuvable via search : 'Stonemouth' (2015)
+15:24:55 [INFO] ✅ Retrouvé : 'Bad Living' (2023) | ancien ID 1092099 → nouveau ID 1077686
+15:24:55 [WARNING] Introuvable via search : 'The Moorside' (2017)
+15:24:55 [INFO] ✅ Retrouvé : 'Skinford: Death Sentence' (2023) | ancien ID 1102551 → nouveau ID 445821
+15:24:55 [WARNING] Introuvable via search : 'For Whom the Bell Tolls: Part 2' (1959)
+15:24:55 [INFO] ✅ Retrouvé : 'Mockingbird Lane' (2012) | ancien ID 200414 → nouveau ID 467629
+15:24:55 [INFO] ✅ Retrouvé : 'The Gay Sisters' (1942) | ancien ID 94577 → nouveau ID 94577
+15:24:55 [INFO] ✅ Retrouvé : 'Starship' (2011) | ancien ID 63497 → nouveau ID 94502
+15:24:55 [INFO] ✅ Retrouvé : 'El doble' (2021) | ancien ID 879951 → nouveau ID 589535
+15:24:55 [INFO] ✅ Retrouvé : 'The Three Wise Men' (2020) | ancien ID 765746 → nouveau ID 13642
+15:24:55 [INFO] ✅ Retrouvé : 'The War' (2007) | ancien ID 208988 → nouveau ID 67396
+15:24:55 [WARNING] Introuvable via search : 'A Body to Die For: The Aaron Henry Story' (1994)
+15:24:55 [WARNING] Introuvable via search : 'Leningrad: Kolshik' (2017)
+15:24:55 [WARNING] Introuvable via search : 'Helluva Boss' (2019)
+15:24:55 [INFO] ✅ Retrouvé : 'Deo pa-i-beu' (2013) | ancien ID 344030 → nouveau ID 236242
+15:24:55 [WARNING] Introuvable via search : 'Julia Louis-Dreyfus: The Kennedy Center Mark Twain Prize' (2018)
+15:24:55 [INFO] ✅ Retrouvé : 'Very Private Lesson' (1998) | ancien ID 382885 → nouveau ID 486256
+15:24:55 [INFO] ✅ Retrouvé : 'Another Trip To The Moon' (2015) | ancien ID 387859 → nouveau ID 316884
+15:24:55 [INFO] ✅ Retrouvé : 'Pickaxe' (2019) | ancien ID 644672 → nouveau ID 298966
+15:24:55 [WARNING] Introuvable via search : 'Extralarge: Black and White' (1991)
+15:24:55 [WARNING] Introuvable via search : 'The American Film Institute Salute to Frank Capra' (1982)
+15:24:55 [INFO] ✅ Retrouvé : 'American Bullet' (2019) | ancien ID 632378 → nouveau ID 165847
+15:24:55 [INFO] ✅ Retrouvé : 'El asfalto' (2021) | ancien ID 879950 → nouveau ID 1388282
+15:24:55 [INFO] ✅ Retrouvé : 'Don't Look Deeper' (2022) | ancien ID 1061605 → nouveau ID 1281082
+15:24:55 [WARNING] Introuvable via search : 'Rob Cantor: Shia LaBeouf Live' (2014)
+15:24:55 [INFO] ✅ Retrouvé : 'Back to the Jurassic' (2015) | ancien ID 341984 → nouveau ID 1476801
+15:24:55 [WARNING] Introuvable via search : 'Holy Musical B@man!' (2012)
+15:24:55 [INFO] ✅ Retrouvé : 'The Bible' (2013) | ancien ID 211845 → nouveau ID 1440858
+15:24:56 [INFO] ✅ Retrouvé : 'Resident Evil: The Nightmare of Dante' (2013) | ancien ID 384975 → nouveau ID 1548948
+15:24:56 [INFO] ✅ Retrouvé : 'Собака Павлова' (2005) | ancien ID 516383 → nouveau ID 273723
+15:24:56 [INFO] ✅ Retrouvé : 'Los Bandoleros' (2009) | ancien ID 211877 → nouveau ID 253835
+15:24:56 [WARNING] Introuvable via search : 'The Fifth Annual 'On Cinema' Oscar Special' (2018)
+15:24:56 [WARNING] Introuvable via search : 'The Fourth Annual 'On Cinema' Oscar Special' (2016)
+15:24:56 [INFO] ✅ Retrouvé : 'Michael Jackson - Bad' (1987) | ancien ID 342381 → nouveau ID 651776
+15:24:56 [INFO] ✅ Retrouvé : 'Telling Lies' (2019) | ancien ID 762697 → nouveau ID 63437
+15:24:56 [WARNING] Introuvable via search : 'Don't F**k With Cats: Hunting an Internet Killer' (2019)
+15:24:56 [WARNING] Introuvable via search : 'Taking Tiger Mountain Revisited' (2019)
+15:24:56 [INFO] ✅ Retrouvé : 'Attack On Titan' (2013) | ancien ID 845074 → nouveau ID 1033219
+15:24:56 [INFO] ✅ Retrouvé : 'The Shivering Truth' (2018) | ancien ID 499928 → nouveau ID 1564568
+15:24:56 [WARNING] Introuvable via search : 'Neznaika na lune' (1997)
+15:24:56 [WARNING] Introuvable via search : '11.22.63' (2016)
+15:24:56 [WARNING] Introuvable via search : 'Prime Suspect: The Lost Child' (1995)
+15:24:56 [WARNING] Introuvable via search : 'Living with Trevor' (2017)
+15:24:56 [INFO] ✅ Retrouvé : 'The Saboteurs' (2015) | ancien ID 345575 → nouveau ID 928997
+15:24:56 [INFO] ✅ Retrouvé : 'Freddy' (2021) | ancien ID 879953 → nouveau ID 1412629
+15:24:56 [INFO] ✅ Retrouvé : 'The Mystery of the Carpathian Sphinx' (2014) | ancien ID 839298 → nouveau ID 297493
+15:24:56 [WARNING] Introuvable via search : 'Lady Blue Shanghai' (2010)
+15:24:56 [INFO] ✅ Retrouvé : 'Berlin Alexanderplatz' (1980) | ancien ID 45560 → nouveau ID 477122
+15:24:56 [INFO] ✅ Retrouvé : 'L'histoire d'un crime' (1901) | ancien ID 1026872 → nouveau ID 1202841
+15:24:56 [INFO] ✅ Retrouvé : 'Shogun' (1980) | ancien ID 529239 → nouveau ID 15119
+15:24:56 [INFO] ✅ Retrouvé : 'Polish Legends: Twardowsky' (2015) | ancien ID 386135 → nouveau ID 1483037
+15:24:56 [INFO] ✅ Retrouvé : 'Gayby' (2012) | ancien ID 95571 → nouveau ID 458877
+15:24:56 [WARNING] Introuvable via search : 'TDF Really Works' (2011)
+15:24:56 [WARNING] Introuvable via search : 'Not-So Amazing' (2020)
+15:24:56 [WARNING] Introuvable via search : 'World's Biggest Beasts' (2015)
+15:24:56 [WARNING] Introuvable via search : 'C600: Step Back in Time' (2021)
+15:24:56 [WARNING] Introuvable via search : 'Atomic Train' (1999)
+15:24:56 [INFO] ✅ Retrouvé : 'Happy!' (2017) | ancien ID 443725 → nouveau ID 440021
+15:24:56 [INFO] ✅ Retrouvé : 'World War III' (1982) | ancien ID 86575 → nouveau ID 1005299
+15:24:56 [WARNING] Introuvable via search : 'Rhythm Nation 1814' (1989)
+15:24:56 [INFO] ✅ Retrouvé : 'Clint Eastwood: A Cinematic Legacy' (2021) | ancien ID 881931 → nouveau ID 1519807
+15:24:56 [INFO] ✅ Retrouvé : 'Severus Snape and the Marauders' (2016) | ancien ID 389593 → nouveau ID 1267671
+15:24:56 [WARNING] Introuvable via search : 'Halo: The Fall of Reach' (2015)
+15:24:56 [INFO] ✅ Retrouvé : 'Louis C.K.: Sorry' (2021) | ancien ID 917505 → nouveau ID 1318297
+15:24:56 [WARNING] Introuvable via search : 'Люди и манекены' (1974)
+15:24:56 [INFO] ✅ Retrouvé : 'The last day of  WWI' (2009) | ancien ID 508765 → nouveau ID 1053804
+15:24:56 [WARNING] Introuvable via search : 'Maigret Lays a Trap (Maigret tend un piège)' (1958)
+15:24:56 [INFO] ✅ Retrouvé : 'A Therapy' (2012) | ancien ID 114411 → nouveau ID 335837
+15:24:56 [INFO] ✅ Retrouvé : 'Shaka Zulu' (1986) | ancien ID 75926 → nouveau ID 51175
+15:24:56 [INFO] ✅ Retrouvé : 'Louis C.K. at The Dolby' (2023) | ancien ID 1107516 → nouveau ID 1590552
+15:24:56 [INFO] ✅ Retrouvé : 'The Invisible Thief' (1909) | ancien ID 348063 → nouveau ID 194071
+15:24:56 [INFO] ✅ Retrouvé : 'Maigret Sets A Trap' (2016) | ancien ID 389396 → nouveau ID 37454
+15:24:56 [WARNING] Introuvable via search : 'Can't Get You Out of My Head: An Emotional History of the Modern World' (2021)
+15:24:56 [INFO] ✅ Retrouvé : 'Political Animals' (2012) | ancien ID 200035 → nouveau ID 400933
+15:24:56 [WARNING] Introuvable via search : 'U.F.Oh Yeah' (2015)
+15:24:56 [INFO] ✅ Retrouvé : 'Warwick' (2016) | ancien ID 391351 → nouveau ID 506674
+15:24:56 [INFO] ✅ Retrouvé : 'Honey, I Shrunk the Audience' (1994) | ancien ID 1112977 → nouveau ID 1514927
+15:24:57 [INFO] ✅ Retrouvé : 'The Silver Chair' (1990) | ancien ID 41257 → nouveau ID 903676
+15:24:57 [INFO] ✅ Retrouvé : 'La broma' (2021) | ancien ID 879954 → nouveau ID 835362
+15:24:57 [INFO] ✅ Retrouvé : 'Padre Pio' (2000) | ancien ID 124025 → nouveau ID 1473916
+15:24:57 [INFO] ✅ Retrouvé : 'Моя жизнь' (2000) | ancien ID 525594 → nouveau ID 342648
+15:24:57 [INFO] ✅ Retrouvé : 'V' (1983) | ancien ID 101660 → nouveau ID 11153
+15:24:57 [INFO] ✅ Retrouvé : 'O Canada!' (1982) | ancien ID 642216 → nouveau ID 1496211
+15:24:57 [INFO] ✅ Retrouvé : 'Wolf Creek' (2016) | ancien ID 388131 → nouveau ID 9885
+15:24:57 [WARNING] Introuvable via search : 'Kenobi: A Star Wars Story' (2019)
+15:24:57 [INFO] ✅ Retrouvé : 'Scribe' (2017) | ancien ID 395767 → nouveau ID 459820
+15:24:57 [INFO] ✅ Retrouvé : 'The Beast' (1996) | ancien ID 47477 → nouveau ID 1222142
+15:24:57 [INFO] ✅ Retrouvé : 'Don't' (2007) | ancien ID 214714 → nouveau ID 12130
+15:24:57 [INFO] ✅ Retrouvé : 'Bad Ben - The Mandela Effect' (2018) | ancien ID 535484 → nouveau ID 882052
+15:24:57 [INFO] ✅ Retrouvé : 'Vampire' (1920) | ancien ID 346387 → nouveau ID 84943
+15:24:57 [INFO] ✅ Retrouvé : 'Carne Y Arena' (2017) | ancien ID 524475 → nouveau ID 1217945
+15:24:57 [INFO] ✅ Retrouvé : 'The Jukebox Kids' (1959) | ancien ID 101833 → nouveau ID 569624
+15:24:57 [INFO] ✅ Retrouvé : 'Histoire(s) du cinéma' (1988) | ancien ID 444043 → nouveau ID 91296
+15:24:57 [INFO] ✅ Retrouvé : 'Pearl' (2016) | ancien ID 393263 → nouveau ID 623098
+15:24:57 [INFO] ✅ Retrouvé : 'Sherlock: The Final Problem' (2017) | ancien ID 432517 → nouveau ID 126850
+15:24:57 [INFO] ✅ Retrouvé : 'Troubled Waters' (2020) | ancien ID 785822 → nouveau ID 150333
+15:24:57 [INFO] ✅ Retrouvé : 'Bad Ben 7: The Haunted Highway' (2019) | ancien ID 769350 → nouveau ID 882055
+15:24:57 [INFO] ✅ Retrouvé : 'The Way We Live Now' (2001) | ancien ID 390422 → nouveau ID 630620
+15:24:57 [INFO] ✅ Retrouvé : 'Pompei ultima scoperta' (2020) | ancien ID 781828 → nouveau ID 686820
+15:24:57 [INFO] ✅ Retrouvé : 'Zombie Fever' (2013) | ancien ID 224113 → nouveau ID 220084
+15:24:57 [INFO] ✅ Retrouvé : 'The Idiot' (2003) | ancien ID 444623 → nouveau ID 9421
+15:24:57 [INFO] ✅ Retrouvé : 'Edge of Darkness' (1985) | ancien ID 392433 → nouveau ID 384134
+15:24:57 [INFO] ✅ Retrouvé : 'Full Force' (2019) | ancien ID 934096 → nouveau ID 632866
+15:24:57 [INFO] ✅ Retrouvé : 'Diamond Cartel' (2017) | ancien ID 440508 → nouveau ID 200708
+15:24:57 [INFO] ✅ Retrouvé : 'The Witches of Oz' (2011) | ancien ID 47761 → nouveau ID 456375
+15:24:58 [INFO] ✅ Retrouvé : 'Ignore It' (2021) | ancien ID 894717 → nouveau ID 1202428
+15:24:58 [INFO] ✅ Retrouvé : 'Infoholic' (2017) | ancien ID 444998 → nouveau ID 441742
+15:24:58 [INFO] ✅ Retrouvé : 'Hazbin Hotel' (2019) | ancien ID 636864 → nouveau ID 1540662
+15:24:58 [INFO] ✅ Retrouvé : 'The Dancer' (2016) | ancien ID 392794 → nouveau ID 1580455
+15:24:58 [INFO] ✅ Retrouvé : 'Dave Chappelle: The Kennedy Center Mark Twain Prize' (2020) | ancien ID 662059 → nouveau ID 1606098
+15:24:58 [INFO] ✅ Retrouvé : 'Inseparable' (2013) | ancien ID 231510 → nouveau ID 51245
+15:24:58 [INFO] ✅ Retrouvé : 'Schwestern' (2013) | ancien ID 394403 → nouveau ID 267864
+15:24:58 [INFO] ✅ Retrouvé : 'Don't Turn the Other Cheek' (1971) | ancien ID 396650 → nouveau ID 136394
+15:24:58 [INFO] ✅ Retrouvé : 'Sinclair' (2010) | ancien ID 348696 → nouveau ID 1599609
+15:24:58 [INFO] ✅ Retrouvé : 'Пес Барбос и необычный кросс' (1961) | ancien ID 536376 → nouveau ID 57780
+15:24:58 [INFO] ✅ Retrouvé : 'Midday Demons' (2018) | ancien ID 647354 → nouveau ID 274836
+15:24:58 [INFO] ✅ Retrouvé : 'Haikyuu!!: vs. Akaten' (2016) | ancien ID 662831 → nouveau ID 1618131
+15:24:58 [INFO] ✅ Retrouvé : 'I, Claudius' (1976) | ancien ID 206514 → nouveau ID 699669
+15:24:58 [INFO] ✅ Retrouvé : 'Sense and Sensibility' (1981) | ancien ID 391934 → nouveau ID 4584
+15:24:58 [INFO] ✅ Retrouvé : 'Ice Cream Man' (2020) | ancien ID 934109 → nouveau ID 44470
+15:24:58 [INFO] ✅ Retrouvé : 'Birdsong' (2012) | ancien ID 523373 → nouveau ID 821093
+15:24:58 [INFO] ✅ Retrouvé : 'Deck of Cards' (2022) | ancien ID 899698 → nouveau ID 1386668
+15:24:58 [INFO] ✅ Retrouvé : 'Dancing on the Edge' (2013) | ancien ID 219466 → nouveau ID 587365
+15:24:58 [INFO] ✅ Retrouvé : 'The Untitled Star Wars Mockumentary' (2003) | ancien ID 351651 → nouveau ID 993314
+15:24:58 [INFO] ✅ Retrouvé : 'We Own the Night' (2007) | ancien ID 2001 → nouveau ID 2001
+15:24:58 [INFO] ✅ Retrouvé : 'John Adams' (2008) | ancien ID 118309 → nouveau ID 956333
+15:24:58 [INFO] ✅ Retrouvé : 'Take a Girl Like You' (2000) | ancien ID 126424 → nouveau ID 194817
+15:24:58 [INFO] ✅ Retrouvé : 'CinemAbility' (2013) | ancien ID 224302 → nouveau ID 554295
+15:24:58 [INFO] ✅ Retrouvé : 'Cheeni' (2020) | ancien ID 791052 → nouveau ID 718016
+15:24:59 [INFO] ✅ Retrouvé : 'Eight Hours Don't Make a Day' (1972) | ancien ID 440456 → nouveau ID 555103
+15:24:59 [INFO] ✅ Retrouvé : 'Tess of the D'Urbervilles' (2008) | ancien ID 101915 → nouveau ID 128714
+15:24:59 [INFO] ✅ Retrouvé : 'Salem's Lot' (1979) | ancien ID 11343 → nouveau ID 748230
+15:25:00 [INFO] ✅ Retrouvé : 'The Defiant Ones' (2017) | ancien ID 445713 → nouveau ID 11414
+15:25:10 [INFO] ✅ Phase 2 terminée : 444/754 films récupérés via search
+15:25:11 [INFO] 💾 Sauvegardé → ..\data\enriched\tmdb_metadata.parquet
+15:25:11 [INFO]    87,041 lignes, 39 colonnes

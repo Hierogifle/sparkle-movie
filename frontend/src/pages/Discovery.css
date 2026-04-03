@@ -1,0 +1,202 @@
+.discovery-container {
+  background-color: var(--bg-dark);
+  min-height: 100vh;
+  color: white;
+  padding-bottom: 120px; /* Laisse de la place pour la barre flottante */
+}
+
+/* HEADER SPÉCIFIQUE */
+.discovery-header {
+  text-align: center;
+  padding: 4rem 2rem 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.discovery-search {
+  display: flex;
+  align-items: center;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 0.5rem 0.5rem 0.5rem 1rem;
+  margin-top: 2rem;
+  gap: 1rem;
+  transition: all 0.3s ease;
+}
+
+.discovery-search:focus-within {
+  border-color: var(--accent);
+  box-shadow: 0 0 15px rgba(245, 197, 24, 0.2);
+}
+
+.discovery-search input {
+  flex: 1;
+  background: none;
+  border: none;
+  outline: none;
+  color: var(--text);
+  font-size: 1.1rem;
+}
+
+/* GRILLE RESPONSIVE POUR LES FILMS */
+.selection-grid-section, .recommendations-section {
+  padding: 2rem 4rem;
+}
+
+.movies-grid-auto {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 25px;
+  justify-items: center;
+}
+
+/* SECTION RÉSULTATS (Avec un léger fond pour la démarquer) */
+.recommendations-section {
+  margin-top: 4rem;
+  background: linear-gradient(to bottom, rgba(245, 197, 24, 0.05), transparent);
+  border-top: 1px solid rgba(245, 197, 24, 0.2);
+  padding-top: 4rem;
+  min-height: 60vh;
+}
+
+.recommendations-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+/* BARRE FLOTTANTE (GLASSMORPHISM) */
+.floating-action-bar {
+  position: fixed;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%) translateY(100px); /* Cachée en bas par défaut */
+  background: rgba(15, 17, 26, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 50px;
+  padding: 15px 25px;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  z-index: 1000;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+  animation: slideUp 0.5s forwards ease-out;
+}
+
+.floating-action-bar.ready {
+  border-color: var(--accent);
+  box-shadow: 0 10px 30px rgba(245, 197, 24, 0.15);
+}
+
+@keyframes slideUp {
+  to { transform: translateX(-50%) translateY(0); }
+}
+
+.fab-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.fab-count {
+  background: var(--accent);
+  color: #000;
+  font-weight: 800;
+  font-size: 1.2rem;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.fab-text {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.fab-hint {
+  color: #ef4444;
+  font-size: 0.9rem;
+  margin-left: 5px;
+}
+
+.fab-actions {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.fab-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 24px;
+}
+
+.fab-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  filter: grayscale(100%);
+}
+
+.fab-icon-btn {
+  background: transparent;
+  border: 1px solid rgba(239, 68, 68, 0.3);
+  padding: 12px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+}
+
+.fab-icon-btn:hover {
+  background: rgba(239, 68, 68, 0.1);
+  border-color: #ef4444;
+}
+
+.back-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s;
+  margin-bottom: 1rem;
+}
+
+.back-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* RESPONSIVE MOBILE */
+@media (max-width: 768px) {
+  .selection-grid-section, .recommendations-section { padding: 2rem 1rem; }
+  .movies-grid-auto { grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 15px; }
+  
+  .floating-action-bar {
+    width: 95%;
+    flex-direction: column;
+    border-radius: 20px;
+    padding: 20px;
+    gap: 20px;
+    bottom: 15px;
+  }
+  .fab-actions {
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .fab-btn { width: 100%; justify-content: center; }
+}

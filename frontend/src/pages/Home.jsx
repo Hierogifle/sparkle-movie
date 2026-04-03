@@ -1,35 +1,44 @@
-import { useState, useEffect, useRef } from 'react'
-import './Home.css'
+import React, { useState, useEffect, useRef } from 'react';
+import { useNavigate } from 'react-router-dom';
+import { useMovies } from '../hooks/useMovies';
+import MovieCarousel from '../components/MovieCarousel';
+import MovieModal from '../components/MovieModal'; // Import de la surpage
+import './Home.css';
 
+// --- DONNÉES STATIQUES DU DESIGN ---
 const heroMovies = [
   { title: 'Matrix', img: 'https://image.tmdb.org/t/p/original/oMsxZEvz9a708d49b6UdZK1KAo5.jpg' },
   { title: 'Gladiateur', img: 'https://image.tmdb.org/t/p/original/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg' },
   { title: 'Nausicaä de la vallée du vent', img: 'https://image.tmdb.org/t/p/original/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg' },
 ]
 
-const allMovies = [
-  { title: 'The Lighthouse', year: 2019, score: 9.1, genre: 'Drame', pepite: true },
-  { title: 'Coherence', year: 2013, score: 8.7, genre: 'Sci-Fi', pepite: true },
-  { title: 'A Ghost Story', year: 2017, score: 8.4, genre: 'Drame', pepite: false },
-  { title: 'Possessor', year: 2020, score: 8.9, genre: 'Thriller', pepite: true },
-  { title: 'The Wailing', year: 2016, score: 9.3, genre: 'Horreur', pepite: true },
-  { title: 'Enemy', year: 2013, score: 8.5, genre: 'Thriller', pepite: false },
-  { title: 'Annihilation', year: 2018, score: 8.8, genre: 'Sci-Fi', pepite: true },
-  { title: 'Midsommar', year: 2019, score: 8.6, genre: 'Horreur', pepite: false },
+const genres = [
+  'Les pépites des pépites', // Toujours en premier (traité à part dans notre code)
+  'Action',
+  'Animation',
+  'Aventure',
+  'Comédie',
+  'Crime',
+  'Documentaire',
+  'Drame',
+  'Familial',
+  'Fantastique',
+  'Guerre',
+  'Histoire',
+  'Horreur',
+  'Mystère',
+  'Romance',
+  'Science Fiction',
+  'Thriller'
 ]
 
-const genres = ['Tous', 'Drame', 'Sci-Fi', 'Thriller', 'Horreur']
-
+// RETOUR DES TÉMOIGNAGES COMPLETS !
 const testimonials = [
   { name: 'Marie L.', avatar: '👩', note: 5, text: "J'ai découvert des films incroyables que je n'aurais jamais trouvés seule. CinéPépite c'est magique !" },
   { name: 'Thomas R.', avatar: '🧑', note: 5, text: "L'algorithme est bluffant. Il a cerné mes goûts en 3 notes. Je recommande à tous les cinéphiles !" },
   { name: 'Sofia M.', avatar: '👩‍🦱', note: 5, text: "Interface élégante et recommandations pertinentes. Enfin une appli qui sort des sentiers battus." },
   { name: 'Lucas B.', avatar: '👨', note: 5, text: "Les pépites d'horreur coréen... qui aurait cru ? Cette app change complètement ma façon de voir les films." },
   { name: 'Emma D.', avatar: '👩', note: 5, text: "Mon mec et moi on a les mêmes goûts, et pourtant on a des recommandations différentes. Génial !" },
-  { name: 'Julien P.', avatar: '🧔', note: 5, text: "J'ai retrouvé des films d'animation japonais des années 80 que j'adorais gamin. Nostalgie garantie." },
-  { name: 'Camille V.', avatar: '👩‍🦰', note: 5, text: "Enfin une app qui me propose pas toujours les mêmes blockbusters. Du vrai cinéma indépendant." },
-  { name: 'Antoine G.', avatar: '👨‍💼', note: 5, text: "Parfait pour les soirées solo. Je teste un film inconnu tous les vendredis maintenant." },
-  { name: 'Léa S.', avatar: '👩‍🎤', note: 5, text: "Les recommandations évoluent avec le temps. Plus je note, plus c'est précis. Impressionnant." },
   { name: 'Maxime T.', avatar: '🧑‍💻', note: 5, text: "Design sombre impeccable, navigation fluide, et surtout des films que personne ne connaît. Top !" },
 ]
 
@@ -39,6 +48,7 @@ const stats = [
   { value: 1000000, label: 'Recommandations', suffix: '' },
 ]
 
+// RETOUR DES FEATURES !
 const features = [
   { icon: '💎', title: 'Pépites cachées', desc: 'Des films excellents que personne ne connaît encore.' },
   { icon: '⭐', title: 'Notez vos films', desc: 'Construisez votre profil cinéma film après film.' },
@@ -46,6 +56,7 @@ const features = [
   { icon: '❤️', title: 'Vos favoris', desc: 'Sauvegardez, organisez, partagez vos coups de cœur.' },
 ]
 
+// --- HOOKS D'ANIMATION ---
 function useFadeIn() {
   const ref = useRef(null)
   useEffect(() => {
@@ -85,28 +96,68 @@ function AnimatedCounter({ value, suffix }) {
   return <span ref={ref}>{display}{suffix}</span>
 }
 
-
+// --- COMPOSANT PRINCIPAL ---
 export default function Home() {
+  const navigate = useNavigate()
+  
+  const { getTrending, getHiddenGems, searchMovies, loading } = useMovies()
+  
+  // États de l'interface
   const [heroIndex, setHeroIndex] = useState(0)
-  const [activeGenre, setActiveGenre] = useState('Tous')
+  const [activeGenre, setActiveGenre] = useState('Les pépites des pépites')
   const [search, setSearch] = useState('')
   const [menuOpen, setMenuOpen] = useState(false)
 
+  // États pour la recherche
+  const [searchResults, setSearchResults] = useState(null)
+  const [isSearching, setIsSearching] = useState(false)
+
+  // États des données API
+  const [trending, setTrending] = useState([])
+  const [hiddenGems, setHiddenGems] = useState([])
+  
+  // ÉTAT POUR LA MODALE
+  const [selectedMovieId, setSelectedMovieId] = useState(null)
+
+  // Références d'animation
   const statsRef = useFadeIn()
   const moviesRef = useFadeIn()
+  const trendingRef = useFadeIn()
   const featuresRef = useFadeIn()
   const testimonialsRef = useFadeIn()
 
+  // Chargement des vrais films depuis l'API
+  useEffect(() => {
+    const loadData = async () => {
+      const trendingData = await getTrending(20, activeGenre)
+      if (trendingData) setTrending(trendingData)
+      
+      const hiddenGemsData = await getHiddenGems(20, activeGenre)
+      if (hiddenGemsData) setHiddenGems(hiddenGemsData)
+    }
+    loadData()
+  }, [getTrending, getHiddenGems, activeGenre])
+
+  // Changement du fond Hero
   useEffect(() => {
     const timer = setInterval(() => setHeroIndex(i => (i + 1) % heroMovies.length), 6500)
     return () => clearInterval(timer)
   }, [])
 
-  const filteredMovies = allMovies.filter(m => {
-    const matchGenre = activeGenre === 'Tous' || m.genre === activeGenre
-    const matchSearch = m.title.toLowerCase().includes(search.toLowerCase())
-    return matchGenre && matchSearch
-  })
+  // Gestion de la recherche
+  const handleSearch = async (e) => {
+    e.preventDefault();
+    if (!search.trim()) return;
+    
+    setIsSearching(true);
+    const results = await searchMovies(search, 20); 
+    setSearchResults(results || []);
+    setIsSearching(false);
+    
+    setTimeout(() => {
+      document.getElementById('search-results')?.scrollIntoView({ behavior: 'smooth' });
+    }, 100);
+  }
 
   return (
     <div className="home">
@@ -117,16 +168,12 @@ export default function Home() {
           <span className="logo-icon">💎</span>
           <span className="logo-text">Ciné<span className="logo-accent">Pépite</span></span>
         </div>
-        <div className="nav-buttons">
-          <button className="btn-ghost">Se connecter</button>
-          <button className="btn-primary">S'inscrire</button>
-        </div>
         <button className="burger" onClick={() => setMenuOpen(!menuOpen)}>
           <span></span><span></span><span></span>
         </button>
       </nav>
 
-      {/* HERO */}
+      {/* HERO PANORAMA */}
       <section className="hero">
         {heroMovies.map((m, i) => (
           <div key={i} className={`hero-slide ${i === heroIndex ? 'active' : ''}`}
@@ -139,18 +186,23 @@ export default function Home() {
             <span className="hero-accent">que vous allez adorer</span>
           </h1>
           <p className="hero-subtitle">
-            CinéPépite analyse vos goûts pour révéler des pépites cinématographiques
-            — les films excellents que tout le monde rate.
+            CinéPépite analyse vos goûts pour révéler des pépites cinématographiques <br />
+            Les meilleurs films que tout le monde rate.
           </p>
-          <div className="search-bar">
+          
+          <form className="search-bar" onSubmit={handleSearch}>
             <span>🔍</span>
-            <input type="text" placeholder="Cherchez un film..." value={search}
+            <input type="text" placeholder="Cherchez un film (ex: Batman)..." value={search}
               onChange={e => setSearch(e.target.value)} />
-            <button className="btn-primary">Rechercher</button>
-          </div>
+            <button type="submit" className="btn-primary" disabled={isSearching}>
+              {isSearching ? '...' : 'Rechercher'}
+            </button>
+          </form>
+
           <div className="hero-cta">
-            <button className="btn-primary btn-large">Recommandation Personnalisée</button>
-            <button className="btn-ghost btn-large">Voir les pépites →</button>
+            <button className="btn-primary btn-large" onClick={() => navigate('/discover')}>
+              Recommandation Personnalisée
+            </button>
           </div>
           <div className="hero-dots">
             {heroMovies.map((_, i) => (
@@ -170,37 +222,77 @@ export default function Home() {
         ))}
       </section>
 
-      {/* FILMS */}
+      {/* RÉSULTATS DE RECHERCHE */}
+      {searchResults !== null && (
+        <section id="search-results" className="movies-preview fade-in visible" style={{ paddingTop: '2rem' }}>
+          <h2 className="section-title">Résultats pour "{search}"</h2>
+          {searchResults.length === 0 ? (
+            <p className="section-sub">Aucun film trouvé pour cette recherche.</p>
+          ) : (
+            <MovieCarousel 
+              key={`search-${search}`} 
+              movies={searchResults} 
+              onShowDetails={(id) => setSelectedMovieId(id)} 
+            />
+          )}
+        </section>
+      )}
+
+      {/* SECTION PÉPITES */}
       <section className="movies-preview fade-in" ref={moviesRef}>
+        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '1rem', marginBottom: '2.5rem' }}>
+          <button 
+            className={`genre-btn ${activeGenre === 'Les pépites des pépites' ? 'active' : ''}`} 
+            onClick={() => setActiveGenre('Les pépites des pépites')}
+            style={{ 
+              padding: '0.6rem 1.8rem', 
+              fontSize: '1rem',
+              border: activeGenre === 'Les pépites des pépites' ? 'none' : '1px solid var(--accent)',
+              color: activeGenre === 'Les pépites des pépites' ? '#000' : 'var(--accent)',
+              boxShadow: activeGenre === 'Les pépites des pépites' ? '0 0 15px rgba(245, 197, 24, 0.4)' : 'none'
+            }}
+          >
+            💎 Les pépites des pépites
+          </button>
+          <div className="genre-filters" style={{ marginBottom: 0 }}>
+            {genres.filter(g => g !== 'Les pépites des pépites').map(g => (
+              <button key={g} className={`genre-btn ${activeGenre === g ? 'active' : ''}`} onClick={() => setActiveGenre(g)}>
+                {g}
+              </button>
+            ))}
+          </div>
+        </div>
+
         <h2 className="section-title">Les pépites du moment</h2>
         <p className="section-sub">Bien notés. Peu vus. Inoubliables.</p>
-        <div className="genre-filters">
-          {genres.map(g => (
-            <button key={g} className={`genre-btn ${activeGenre === g ? 'active' : ''}`} onClick={() => setActiveGenre(g)}>{g}</button>
-          ))}
-        </div>
-        <div className="movies-grid">
-          {filteredMovies.map((movie, i) => (
-            <div className="movie-card" key={i}>
-              {movie.pepite && <div className="pepite-badge">💎 Pépite</div>}
-              <div className="movie-poster"><span className="movie-emoji">🎬</span></div>
-              <div className="movie-info">
-                <span className="movie-genre">{movie.genre}</span>
-                <h3 className="movie-title">{movie.title}</h3>
-                <div className="score-bar">
-                  <div className="score-fill" style={{ width: `${(movie.score / 10) * 100}%` }} />
-                </div>
-                <div className="movie-footer">
-                  <span className="movie-year">{movie.year}</span>
-                  <span className="movie-score">{movie.score}/10</span>
-                </div>
-              </div>
-            </div>
-          ))}
-        </div>
+
+        {hiddenGems.length === 0 && loading ? (
+          <div style={{ textAlign: 'center', padding: '40px' }}>Analyse des pépites en cours...</div>
+        ) : (
+          <MovieCarousel 
+            key={`gems-${activeGenre}`} 
+            movies={hiddenGems} 
+            onShowDetails={(id) => setSelectedMovieId(id)} 
+          />
+        )}
       </section>
 
-      {/* FEATURES */}
+      {/* SECTION TRENDING */}
+      <section className="movies-preview fade-in" ref={trendingRef} style={{ paddingTop: '0' }}>
+        <h2 className="section-title">Films Tendances</h2>
+        <p className="section-sub">Ce que tout le monde regarde en ce moment.</p>
+        
+        {trending.length === 0 && loading ? (
+          <div style={{ textAlign: 'center', padding: '40px' }}>Chargement des tendances...</div>
+        ) : (
+          <MovieCarousel 
+            movies={trending} 
+            onShowDetails={(id) => setSelectedMovieId(id)} 
+          />
+        )}
+      </section>
+
+      {/* FEATURES (Restauration !) */}
       <section className="features fade-in" ref={featuresRef}>
         <h2 className="section-title">Pourquoi CinéPépite ?</h2>
         <div className="features-grid">
@@ -214,7 +306,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* TÉMOIGNAGES */}
+      {/* TÉMOIGNAGES (Restauration !) */}
       <section className="testimonials fade-in" ref={testimonialsRef}>
         <h2 className="section-title">Ce qu'ils en disent</h2>
         <div className="testimonials-marquee">
@@ -235,18 +327,22 @@ export default function Home() {
         </div>
       </section>
 
-      {/* CTA */}
-      <section className="cta-section">
-        <h2>Prêt à découvrir votre prochaine pépite ?</h2>
-        <button className="btn-primary btn-large">Créer mon compte</button>
-      </section>
-
       {/* FOOTER */}
       <footer className="footer">
-        <span className="logo-icon">💎</span>
-        <span className="logo-text">Ciné<span className="logo-accent">Pépite</span></span>
+        <div className="logo" style={{ marginBottom: '10px' }}>
+          <span className="logo-icon">💎</span>
+          <span className="logo-text">Ciné<span className="logo-accent">Pépite</span></span>
+        </div>
         <p>Projet Sparkle Movie · La Fine Equipe · 2026</p>
       </footer>
+
+      {/* MODALE DE DÉTAILS */}
+      {selectedMovieId && (
+        <MovieModal 
+          movieId={selectedMovieId} 
+          onClose={() => setSelectedMovieId(null)} 
+        />
+      )}
 
     </div>
   )

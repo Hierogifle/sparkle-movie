@@ -1,0 +1,143 @@
+.movie-card {
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #1f2937;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.movie-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 25px -5px rgba(99, 102, 241, 0.4);
+}
+
+.movie-card.selected {
+  border: 3px solid #6366f1;
+}
+
+/* ── POSTER ── */
+.poster-container {
+  position: relative;
+  aspect-ratio: 2/3;
+  background: #374151;
+  overflow: hidden;
+}
+
+.poster-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.selection-overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0, 0, 0, 0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: fadeIn 0.2s ease;
+}
+
+/* 👇 MODIFICATION : On met le badge de pourcentage à GAUCHE */
+.similarity-badge {
+  position: absolute;
+  top: 10px;
+  left: 10px; /* Remplacé 'right' par 'left' pour libérer la place */
+  background: rgba(99, 102, 241, 0.9);
+  color: white;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: bold;
+}
+
+/* ── BOUTON INFO (Cercle parfait, à droite, seul !) ── */
+.info-icon-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px; /* Bien à droite, et il a la place maintenant ! */
+  background: rgba(15, 23, 42, 0.8);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: white;
+  
+  /* Cercle parfait garanti */
+  width: 40px;
+  height: 40px;
+  min-width: 40px;
+  min-height: 40px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  
+  /* 👇 LE SECRET ANTI-OVALE EST ICI 👇 */
+  padding: 0 !important; 
+  margin: 0 !important;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 20; /* On s'assure qu'il est bien devant */
+  opacity: 0;
+  transform: scale(0.8);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.movie-card:hover .info-icon-btn {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.info-icon-btn:hover {
+  background: var(--accent, #f5c518);
+  color: #000;
+  border-color: var(--accent, #f5c518);
+  box-shadow: 0 0 15px rgba(245, 197, 24, 0.4);
+}
+
+/* ── INFOS FILM ── */
+.movie-info {
+  padding: 12px;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.movie-info h3 {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #f3f4f6;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.movie-meta {
+  margin-top: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.rating {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: #fbbf24;
+  font-weight: bold;
+  font-size: 0.85rem;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}

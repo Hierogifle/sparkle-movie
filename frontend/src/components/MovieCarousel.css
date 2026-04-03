@@ -1,0 +1,60 @@
+.movie-carousel-container {
+  /* L'astuce pour sortir de la boîte et prendre 100% de la largeur de l'écran (viewport) */
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  
+  overflow: hidden; /* Cache ce qui dépasse */
+  padding: 10px 0 20px 0;
+}
+
+.movie-carousel-track {
+  display: flex;
+  gap: 20px;
+  width: max-content; /* Permet au conteneur de prendre la largeur de TOUS les films */
+  
+  /* L'animation : 40 secondes pour faire un tour, vitesse constante, à l'infini */
+  animation: scrollTrack 40s linear infinite;
+}
+
+/* Bonus UX : Pause quand on survole un film ! */
+.movie-carousel-track:hover {
+  animation-play-state: paused;
+}
+
+.carousel-item {
+  flex: 0 0 160px;
+  max-width: 160px;
+}
+
+@media (min-width: 768px) {
+  .carousel-item {
+    flex: 0 0 180px;
+    max-width: 180px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .carousel-item {
+    flex: 0 0 200px;
+    max-width: 200px;
+  }
+}
+
+/* L'astuce magique de la boucle */
+@keyframes scrollTrack {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    /* On décale vers la gauche de 50% de la largeur totale (soit exactement la taille du premier groupe de films), moins la moitié du gap (10px) pour l'alignement parfait */
+    transform: translateX(calc(-50% - 10px));
+  }
+}
+
+.movie-carousel-track.static-track {
+  animation: none !important;
+  justify-content: center; /* Centre les affiches proprement */
+  width: 100%;
+}

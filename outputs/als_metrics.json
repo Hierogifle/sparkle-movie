@@ -1,18 +1,33 @@
 [
   {
     "model": "ALS_baseline",
-    "timestamp": "2026-03-02T13:56:54.823183",
+    "timestamp": "2026-04-02T09:42:45.546829",
     "params": {
       "rank": 10,
       "maxIter": 10,
       "regParam": 0.1
     },
     "metrics": {
-      "rmse_val": 0.8049,
-      "mae_val": 0.6218,
-      "rmse_test": 0.8046,
-      "mae_test": 0.6215
+      "rmse_val": 0.8583,
+      "mae_val": 0.6384,
+      "rmse_test": 0.8378,
+      "mae_test": 0.6294
     },
-    "train_time_s": 21.6
+    "train_time_s": 25.5
+  },
+  {
+    "model": "ALS_tuned",
+    "timestamp": "2026-04-02T14:48:20.498153",
+    "params": {
+      "rank": 150,
+      "maxIter": 15,
+      "regParam": 0.05
+    },
+    "metrics": {
+      "rmse_val": 0.8532,
+      "mae_val": 0.6327,
+      "rmse_test": 0.8404,
+      "mae_test": 0.6312
+    }
   }
 ]

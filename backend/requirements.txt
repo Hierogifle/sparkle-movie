@@ -1,10 +1,10 @@
 fastapi
 uvicorn[standard]
 sqlalchemy
-pandas
+pandas==2.2.2
 pyarrow
 scikit-learn
 scipy
 joblib
-numpy
+numpy==1.26.4
 python-dotenv

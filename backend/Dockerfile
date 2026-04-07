@@ -1,21 +1,10 @@
 FROM python:3.11-slim
-
 WORKDIR /app
-
-# Installation des dépendances système nécessaires pour certaines bibliothèques Python
-RUN apt-get update && apt-get install -y \
-    build-essential \
-    && rm -rf /var/lib/apt/lists/*
-
-# Copie des dépendances (sans le mot "backend/")
-COPY requirements.txt .
+RUN apt-get update && apt-get install -y build-essential && rm -rf /var/lib/apt/lists/*
+COPY backend/requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
-
-# On copie tout le contenu directement (le code, data et models)
-COPY . .
-
-# Exposition du port
+COPY backend/ ./backend/
+COPY data/ ./data/
+COPY models/ ./models/
 EXPOSE 8000
-
-# Commande pour lancer l'application (attention ici, si main.py est à la racine de backend, on met "main:app" au lieu de "backend.main:app")
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "8000"]

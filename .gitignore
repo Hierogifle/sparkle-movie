@@ -7,3 +7,6 @@ data/
 __pycache__/
 *.pyc
 .vscode/
+.venv/
+.venv_linux/
+frontend/node_modules/

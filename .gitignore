@@ -14,9 +14,6 @@ venv.bak/
 
 # === Base de données générée ===
 *.sqlite
-*.db
-backend/sparkle.db
-sparkle.db
 
 # === Python / FastAPI ===
 __pycache__/

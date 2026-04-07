@@ -1,0 +1,7 @@
+# Demande : ne pas versionner ce dossier
+Projet_Romu/
+
+# Environnement local et données lourdes (sinon push GitHub impossible / dépôt énorme)
+.venv/
+ml-32m/
+ml-32m.zip

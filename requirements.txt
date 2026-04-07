@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+pyspark==3.5.1
+requests
+scikit-learn
+scipy
+seaborn
+tqdm
